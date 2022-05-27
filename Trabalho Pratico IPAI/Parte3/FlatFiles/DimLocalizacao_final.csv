@@ -1,0 +1,53 @@
+IDLocalizacao,Pais,Regiao,Continente,NumeroDeVizinhos
+1,Albania,Southern Europe,Europe,4
+2,Andorra,Southern Europe,Europe,2
+3,Armenia,Western Asia,Asia,4
+4,Australia,Australia and New Zealand,Oceania,0
+5,Austria,Western Europe,Europe,8
+6,Azerbaijan,Western Asia,Asia,5
+7,Belarus,Eastern Europe,Europe,5
+8,Belgium,Western Europe,Europe,4
+9,Bosnia and Herzegovina,Southern Europe,Europe,3
+10,Bulgaria,Eastern Europe,Europe,4
+11,Croatia,Southern Europe,Europe,5
+12,Cyprus,Western Asia,Asia,0
+13,Czechia,Eastern Europe,Europe,4
+14,Denmark,Northern Europe,Europe,1
+15,Estonia,Northern Europe,Europe,2
+16,Finland,Northern Europe,Europe,3
+17,France,Western Europe,Europe,6
+18,Georgia,Western Asia,Asia,4
+19,Germany,Western Europe,Europe,9
+20,Greece,Southern Europe,Europe,4
+21,Hungary,Eastern Europe,Europe,7
+22,Iceland,Northern Europe,Europe,0
+23,Ireland,Northern Europe,Europe,1
+24,Israel,Western Asia,Asia,0
+25,Italy,Southern Europe,Europe,6
+26,Latvia,Northern Europe,Europe,4
+27,Lithuania,Northern Europe,Europe,4
+28,Luxembourg,Western Europe,Europe,3
+29,Malta,Southern Europe,Europe,0
+30,Moldova,Eastern Europe,Europe,2
+31,Monaco,Western Europe,Europe,1
+32,Montenegro,Southern Europe,Europe,5
+33,Morocco,Northern Africa,Africa,0
+34,North Macedonia,Southern Europe,Europe,5
+35,Netherlands,Western Europe,Europe,2
+36,Norway,Northern Europe,Europe,3
+37,Poland,Eastern Europe,Europe,7
+38,Portugal,Southern Europe,Europe,1
+39,Romania,Eastern Europe,Europe,5
+40,Russia,Eastern Europe,Europe,10
+41,San Marino,Southern Europe,Europe,1
+42,Serbia,Southern Europe,Europe,8
+43,Slovakia,Eastern Europe,Europe,6
+44,Slovenia,Southern Europe,Europe,4
+45,Spain,Southern Europe,Europe,3
+46,Sweden,Northern Europe,Europe,2
+47,Switzerland,Western Europe,Europe,5
+48,Turkey,Western Asia,Asia,5
+49,United Kingdom,Northern Europe,Europe,1
+50,Ukraine,Eastern Europe,Europe,6
+51,Serbia and Montenegro,Southern Europe,Europe,7
+52,Yugoslavia,Southern Europe,Europe,7

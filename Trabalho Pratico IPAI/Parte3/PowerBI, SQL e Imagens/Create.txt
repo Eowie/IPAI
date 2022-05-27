@@ -1,0 +1,129 @@
+CREATE TABLE PUBLIC.DimData(
+	IDData 		INT PRIMARY KEY,
+	Ano    		INT NOT NULL,
+	ParteDaDecada 	VARCHAR(35) CHECK (ParteDaDecada IN ('Segunda Metade da Decada', 'Primeira Metade da Decada')),
+	Decada 		INT,
+	Seculo  	INT CHECK (Seculo IN (20,21)
+);
+
+
+CREATE TABLE PUBLIC.DimLocalizacao(
+	IDLocalizacao	INT	    PRIMARY KEY,
+	Pais		VARCHAR(50),
+	Regiao		VARCHAR(50),
+	Continente	VARCHAR(15) CHECK (Continente IN ('Europe','Asia','Oceania','Africa')),
+	NumeroVizinhos	INT
+);
+
+CREATE TABLE PUBLIC.DimMusica(
+	IDMusica 		INT          PRIMARY KEY,
+	Musica 			VARCHAR(300),
+	Artista			VARCHAR(200),
+	Lingua 			VARCHAR(100) CHECK (Lingua IN ('English','NotEnglish','Mixed')),
+	Classificacao 		INT,
+	OrdemAtuacao 		INT,
+	OrdemAtuacaoNormalizada FLOAT 	     CHECK (OrdemAtuacaoNormalizada<=1),
+	Pontuacao 		INT
+);
+
+CREATE TABLE DimEurovisao(
+	IDEurovisao 			INT         PRIMARY KEY,
+	NumeroEdicao			INT	    NOT NULL,
+	TotalParticipantes		INT,
+	VerificacaoVotoJuri		VARCHAR(20) CHECK (VerificacaoVotoJuri IN ('Voto Juri', 'Sem Voto Juri')),
+	VerificacaoTelevoto		VARCHAR(20) CHECK (VerificacaoTelevoto IN ('Sem Televoto', 'Televoto')),
+	TotalPontosPaisDa               INT,
+	MaxPontosPaisADaPaisB		INT 	    CHECK (MaxPontosPaisADaPaisB < 25),
+	DescricaoPontos			VARCHAR(20),
+	TotalPontosDisponivelConcurso	INT,
+	MaxPontuacaoPais		INT,
+	Ano				INT,
+	PaisAnfitriao			VARCHAR(30),
+	CidadeAnfitria			VARCHAR(30),
+	RegraLinguagem			VARCHAR(30) CHECK (RegraLinguagem IN ('NaoExisteRegraLinguagem', 'ApenasLinguaMaterna'))
+);
+
+
+CREATE TABLE PUBLIC.DimJunk (
+	IDJunk 		   INT         PRIMARY KEY,
+	VerificacaoVizinho VARCHAR(100) CHECK (VerificacaoVizinho IN ('PaisesVizinhos', 'PaisesNaoVizinhos')),
+	VerificacaoVoto    VARCHAR(200)	CHECK (VerificacaoVoto IN ('Televoto', 'VotoJuri','VotoNaoDiscriminado'))
+);
+
+	
+CREATE TABLE PUBLIC.DimJunkConflito (
+	IDConflito 	    INT	    PRIMARY KEY,
+	VerificacaoConflito VARCHAR (100) CHECK (Verificacaoconflito IN ('NaoEnvolvidoEmConflito', 'EnvolvidoEmConflito')),
+	LocalizacaoConflito VARCHAR (100) CHECK (LocalizacaoConflito IN ('ConflitoNumParticipanteEurovisao', 'ConflitoNumNaoParticipanteEurovisao','NA')),
+	AtivoEurovisao      VARCHAR(150)  CHECK (AtivoEurovisao IN ('AtivoDuranteEurovisao', 'NaoAtivoDuranteEurovisao','NA'))
+);
+
+
+INSERT INTO dimeurovisao(IDEurovisao,NumeroEdicao,TotalParticipantes,VerificacaoVotoJuri,
+	VerificacaoTelevoto, TotalPontosPaisDa,	MaxPontosPaisADaPaisB,DescricaoPontos,
+	TotalPontosDisponivelConcurso, MaxPontuacaoPais,Ano	,PaisAnfitriao,	CidadeAnfitria,
+	RegraLinguagem) VALUES (99,99,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2020,NULL,NULL,NULL)
+	
+CREATE TABLE PUBLIC.FactTable1 (
+	IDData 		    INT,
+	IDEurovisao 	    INT,
+	IDLocalizacaoDa     INT,
+	IDLocalizacaoRecebe INT,
+	IDJunk		    INT,
+	Pontos		    INT,
+CONSTRAINT pk_tfactos1 PRIMARY KEY (IDData,IDLocalizacaoDa,IDLocalizacaoRecebe,IDJunk)),
+CONSTRAINT fk_tfactos1_data FOREIGN KEY (IDData) REFERENCES PUBLIC.DimData(IDData),
+CONSTRAINT fk_tfactos1_euro FOREIGN KEY (IDEurovisao) REFERENCES PUBLIC.DimEurovisao(IDEurovisao),
+CONSTRAINT fk_tfactos1_loca1 FOREIGN KEY (IDLocalizacaoDa) REFERENCES PUBLIC.DimLocalizacao(IDLocalizacao),
+CONSTRAINT fk_tfactos1_loca2 FOREIGN KEY (IDLocalizacaoRecebe) REFERENCES PUBLIC.DimLocalizacao(IDLocalizacao),
+CONSTRAINT fk_tfactos1_junk FOREIGN KEY (IDJunk) REFERENCES PUBLIC.DimJunk(IDJunk)
+);
+
+
+
+CREATE TABLE PUBLIC.FactTable2 (
+	IDData	 		INT	NOT NULL,
+	IDEurovisao 		INT	NOT NULL,
+	IDLocalizacao 		INT	NOT NULL,
+	IDMusica 		INT	PRIMARY KEY,
+	IDConflito 		INT	NOT NULL,
+	Pontos 			INT	NOT NULL,
+	AreaKM2 		FLOAT,
+	PIBPerCapita 		FLOAT,
+	Populacao 		FLOAT, 
+	DensidadePopulacional 	FLOAT,
+	EmissoesCO2 		FLOAT,
+	EmissoesPorPopulacao	FLOAT,
+	EmissoesPorArea 	FLOAT,
+	Turismo			FLOAT,
+	TurismoPorArea 		FLOAT,
+
+CONSTRAINT fk_tfactos2_data FOREIGN KEY (IDData) REFERENCES PUBLIC.DimData(IDData),
+CONSTRAINT fk_tfactos2_euro FOREIGN KEY (IDEurovisao) REFERENCES PUBLIC.DimEurovisao(IDEurovisao),
+CONSTRAINT fk_tfactos2_loca FOREIGN KEY (IDLocalizacao) REFERENCES PUBLIC.DimLocalizacao(IDLocalizacao),
+CONSTRAINT fk_tfactos2_musi FOREIGN KEY (IDMusica) REFERENCES PUBLIC.DimMusica(IDMusica),
+CONSTRAINT fk_tfactos2_conf FOREIGN KEY (IDConflito) REFERENCES PUBLIC.DimJunkConflito(IDConflito)
+
+);
+
+CREATE MATERIALIZED VIEW DimLocalizacaoDa
+AS
+	SELECT l.idlocalizacao AS IDLocalizacaoDa, l.pais AS PaisDa, l.regiao AS RegiaoDa,
+	l.continente AS ContinenteDa, l.numerovizinhos AS NumeroVizinhosDa
+	FROM dimlocalizacao l
+WITH NO DATA;
+
+REFRESH MATERIALIZED VIEW DimLocalizacaoDa;
+
+
+CREATE MATERIALIZED VIEW DimLocalizacaoRecebe
+AS
+	SELECT l.idlocalizacao AS IDLocalizacaoRecebe, l.pais AS PaisRecebe, l.regiao AS RegiaoRecebe,
+	l.continente AS ContinenteRecebe, l.numerovizinhos AS NumeroVizinhosRecebe
+	FROM dimlocalizacao l
+WITH NO DATA;
+
+
+REFRESH MATERIALIZED VIEW DimLocalizacaoRecebe;
+
+

@@ -1,0 +1,1646 @@
+IDMusica,Musica,Artista,Lingua,Classificacao,OrdemAtuacao,OrdemAtuacaoNormalizada,Pontuacao
+1,De vogels van Holland,Jetty Paerl,NotEnglish,0,1,0.07142857142857142,0
+2,Das alte Karussell,Lys Assia,NotEnglish,0,2,0.14285714285714285,0
+3,Messieurs les noyés de la Seine,Fud Leclerc,NotEnglish,0,3,0.21428571428571427,0
+4,Im Wartesaal zum großen Glück,Walter Andreas Schwarz,NotEnglish,0,4,0.2857142857142857,0
+5,Le temps perdu,Mathé Altéry,NotEnglish,0,5,0.35714285714285715,0
+6,Ne crois pas,Michèle Arnaud,NotEnglish,0,6,0.42857142857142855,0
+7,Aprite le finestre,Franca Raimondi,NotEnglish,0,7,0.5,0
+8,Voorgoed voorbij,Corry Brokken,NotEnglish,0,8,0.5714285714285714,0
+9,Refrain,Lys Assia (2),NotEnglish,1,9,0.6428571428571429,0
+10,Le plus beau jour de ma vie,Mony Marc,NotEnglish,0,10,0.7142857142857143,0
+11,So geht das jede Nacht,Freddy Quinn,NotEnglish,0,11,0.7857142857142857,0
+12,Il est là,Dany Dauberson,NotEnglish,0,12,0.8571428571428571,0
+13,Les amants de minuit,Michèle Arnaud (2),NotEnglish,0,13,0.9285714285714286,0
+14,Amami se vuoi,Tonina Torrielli,NotEnglish,0,14,1,0
+15,Straatdeuntje,Bobbejaan Schoepen,NotEnglish,8,1,0.1,5
+16,Amours mortes (Tant de peine),Danièle Dupré,NotEnglish,4,2,0.2,8
+17,All,Patricia Bredin,English,7,3,0.3,6
+18,Corde della mia chitarra,Nunzio Gallo,NotEnglish,6,4,0.4,7
+19,Wohin kleines Pony?,Bob Martin,NotEnglish,10,5,0.5,3
+20,Net als toen,Corry Brokken (2),NotEnglish,1,6,0.6,31
+21,"Telefon, Telefon",Margot Hielscher,Mixed,4,7,0.7,8
+22,La belle amour,Paule Desjardins,NotEnglish,2,8,0.8,17
+23,Skibet skal sejle i nat,Birthe Wilke & Gustav Winckler,NotEnglish,3,9,0.9,10
+24,L'enfant que j'étais,Lys Assia (3),NotEnglish,8,10,1,5
+25,Nel blu dipinto di blu (Volare),Domenico Modugno,NotEnglish,3,1,0.1,13
+26,Heel de wereld,Corry Brokken (3),NotEnglish,9,2,0.2,1
+27,"Dors, mon amour",André Claveau,NotEnglish,1,3,0.3,27
+28,Un grand amour,Solange Berry,NotEnglish,9,4,0.4,1
+29,Lilla stjärna,Alice Babs,NotEnglish,4,5,0.5,10
+30,Jeg rev et blad ud af min dagbog,Raquel Rastenni,NotEnglish,8,6,0.6,3
+31,Ma petite chatte,Fud Leclerc (2),NotEnglish,5,7,0.7,8
+32,Für zwei Groschen Musik,Margot Hielscher (2),NotEnglish,7,8,0.8,5
+33,Die ganze Welt braucht Liebe,Liane Augustin,NotEnglish,5,9,0.9,8
+34,Giorgio,Lys Assia (4),Mixed,2,10,1,24
+35,"Oui, oui, oui, oui",Jean Philippe,NotEnglish,3,1,0.09090909090909091,15
+36,"Uh, jeg ville ønske jeg var dig",Birthe Wilke (2),NotEnglish,5,2,0.18181818181818182,12
+37,"Piove (Ciao, ciao bambina)",Domenico Modugno (2),NotEnglish,6,3,0.2727272727272727,9
+38,Mon ami Pierrot,Jacques Pills,NotEnglish,11,4,0.36363636363636365,1
+39,Een beetje,Teddy Scholten,NotEnglish,1,5,0.45454545454545453,21
+40,Heute Abend wollen wir tanzen geh'n,Alice & Ellen Kessler,NotEnglish,8,6,0.5454545454545454,5
+41,Augustin,Brita Borg,NotEnglish,9,7,0.6363636363636364,4
+42,Irgendwoher,Christa Williams,NotEnglish,4,8,0.7272727272727273,14
+43,Der K und K Kalypso aus Wien,Ferry Graf,NotEnglish,9,9,0.8181818181818182,4
+44,"Sing, Little Birdie",Pearl Carr & Teddy Johnson,English,2,10,0.9090909090909091,16
+45,Hou toch van mij,Bob Benny,NotEnglish,6,11,1,9
+46,"Looking High, High, High",Bryan Johnson,English,2,1,0.07692307692307693,25
+47,Alla andra får varann,Siw Malmkvist,NotEnglish,10,2,0.15384615384615385,4
+48,So laang we's du do bast,Camillo Felgen,NotEnglish,13,3,0.23076923076923078,1
+49,Det var en yndig tid,Katy Bødtger,NotEnglish,10,4,0.3076923076923077,4
+50,Mon amour pour toi,Fud Leclerc (3),NotEnglish,6,5,0.38461538461538464,9
+51,Voi voi,Nora Brockstedt,NotEnglish,4,6,0.46153846153846156,11
+52,Du hast mich so fasziniert,Harry Winter,NotEnglish,7,7,0.5384615384615384,6
+53,Ce soir-là,François Deguelt,NotEnglish,3,8,0.6153846153846154,15
+54,Cielo e terra,Anita Traversi,NotEnglish,8,9,0.6923076923076923,5
+55,Wat een geluk,Rudi Carrell,NotEnglish,12,10,0.7692307692307693,2
+56,Bonne nuit ma chérie,Wyn Hoop,Mixed,4,11,0.8461538461538461,11
+57,Romantica,Renato Rascel,NotEnglish,8,12,0.9230769230769231,5
+58,Tom Pillibi,Jacqueline Boyer,NotEnglish,1,13,1,32
+59,The Image of You,Anjeza Shahini,English,7,9,0.375,106
+60,Tomorrow I Go,Ledina Çelo,English,16,8,0.3333333333333333,53
+61,Weil der Mensch zählt,Alf Poier,NotEnglish,6,2,0.07692307692307693,101
+62,Hear My Plea (Balada e gurit),Frederik Ndoci,Mixed,0,0,0,0
+63,Zemrën e lamë peng,Olta Boka,NotEnglish,16,3,0.12,55
+64,Carry Me in Your Dreams,Kejsi Tola,English,17,19,0.76,48
+65,Ne brini,Mija Martina,Mixed,16,6,0.23076923076923078,27
+66,Više nisam tvoja,Claudia Beni,Mixed,15,8,0.3076923076923077,29
+67,Feeling Alive,Stelios Constantas,English,20,9,0.34615384615384615,15
+68,Identitet,Adrian Lulgjuraj & Bledar Sejko,NotEnglish,0,0,0,0
+69,Monts et merveilles,Louisa Baïleche,NotEnglish,18,19,0.7307692307692307,19
+70,Let's Get Happy,Lou,English,11,10,0.38461538461538464,53
+71,Fairytale,Eneda Tarifa,English,0,0,0,0
+72,World,Lindita,English,0,0,0,0
+73,Mall,Eugent Bushpepa,NotEnglish,11,12,0.46153846153846156,184
+74,Ktheju tokës,Jonida Maliqi,NotEnglish,17,2,0.07692307692307693,90
+75,Fall From The Sky,Arilena Ara,English,0,0,0,0
+76,Karma,Anxhela Peristeri,NotEnglish,21,2,0.07407407407407407,57
+77,Jugarem a estimar-nos,Marta Roure,NotEnglish,0,0,0,0
+78,La mirada interior,Marian van de Wal,NotEnglish,0,0,0,0
+79,Sanomi,Urban Trad,NotEnglish,2,22,0.8461538461538461,165
+80,Salvem el món (Let's Save the World),Anonymous,Mixed,0,0,0,0
+81,Casanova,Gisela,Mixed,0,0,0,0
+82,La teva decisió (Get a Life),Susanne Georgi,Mixed,0,0,0,0
+83,Era,Wess & Dori Ghezzi,NotEnglish,3,19,1,115
+84,Anytime You Need,Hayko,Mixed,8,23,0.9583333333333334,138
+85,"Qele, qele (Քելե, քելե)",Sirusho,Mixed,4,5,0.2,199
+86,Jan jan (Nor par) (Ջան ջան (Նոր պար)),Inga & Anush,Mixed,10,9,0.36,92
+87,Mrs. Caroline Robinson,Springtime,NotEnglish,15,19,0.95,14
+88,Never Let You Go,Mando,English,17,17,0.6538461538461539,25
+89,Lonely Planet,Dorians,English,18,12,0.46153846153846156,41
+90,Eighties Coming Back,Ruffus,English,21,23,0.8846153846153846,14
+91,Open Your Heart,Birgitta,English,8,1,0.038461538461538464,81
+92,LoveWave,Iveta Mukuchyan,English,7,26,1,249
+93,Fly with Me,Artsvik,English,18,5,0.19230769230769232,79
+94,Qami (Քամի),Sevak Khanagyan,NotEnglish,0,0,0,0
+95,Walking Out,Srbuk,English,0,0,0,0
+96,Chains On You,Athena Manoukian,English,0,0,0,0
+97,We've Got the World,Mickey Harte,English,11,3,0.11538461538461539,53
+98,Sound of Silence,Dami Im,English,2,13,0.5,511
+99,Don't Come Easy,Isaiah,English,9,14,0.5384615384615384,173
+100,We Got Love,Jessica Mauboy,English,20,16,0.6153846153846154,99
+101,Zero Gravity,Kate Miller-Heidke,English,9,25,0.9615384615384616,284
+102,Don't Break Me,Montaigne,English,0,0,0,0
+103,Technicolour,Montaigne,English,0,0,0,0
+104,Sehnsucht,Jimmy Makulis,NotEnglish,15,3,0.15789473684210525,1
+105,Nur in der Wiener Luft,Eleonore Schwarz,NotEnglish,13,4,0.17391304347826086,0
+106,Vielleicht geschieht ein Wunder,Carmela Corren,Mixed,7,4,0.15384615384615385,16
+107,"Warum nur, warum?",Udo Jürgens,NotEnglish,6,6,0.3,11
+108,"Sag ihr, ich lass sie Grüßen",Udo Jürgens (2),NotEnglish,4,6,0.25,16
+109,"Merci, Chérie",Udo Jürgens (3),Mixed,1,9,0.34615384615384615,31
+110,Warum es hunderttausend Sterne gibt,Peter Horton,NotEnglish,14,3,0.14285714285714285,2
+111,Tausend Fenster,Karel Gott,NotEnglish,13,4,0.21052631578947367,2
+112,Musik,Marianne Mendt,NotEnglish,16,1,0.043478260869565216,66
+113,Falter im Wind,Milestones,NotEnglish,5,11,0.5,100
+114,My Little World,Waterloo & Robinson,English,5,14,0.6363636363636364,80
+115,Boom Boom Boomerang,Schmetterlinge,Mixed,17,4,0.16,11
+116,Det blir alltid värre framåt natten,Björn Skifs,NotEnglish,14,20,1,26
+117,Heute in Jerusalem,Christina Simon,NotEnglish,18,18,0.782608695652174,5
+118,Du bist Musik,Blue Danube,NotEnglish,8,1,0.04,64
+119,Wenn du da bist,Marty Brem,NotEnglish,17,1,0.043478260869565216,20
+120,Sonntag,Mess,NotEnglish,9,10,0.5555555555555556,57
+121,Hurricane,Westend,NotEnglish,9,18,0.8181818181818182,53
+122,Einfach weg,Anita,NotEnglish,19,13,0.5416666666666666,5
+123,Kinder dieser Welt,Gary Lux,NotEnglish,8,17,0.8947368421052632,60
+124,Die Zeit ist einsam,Timna Brauer,NotEnglish,18,16,0.64,12
+125,Nur noch Gefühl,Gary Lux (2),NotEnglish,20,3,0.11538461538461539,8
+126,Lisa Mona Lisa,Wilfried,NotEnglish,21,12,0.48,0
+127,Nur ein Lied,Thomas Forstner,NotEnglish,5,13,0.5909090909090909,97
+128,Keine Mauern mehr,Simone,Mixed,10,20,0.8,58
+129,Venedig im Regen,Thomas Forstner (2),NotEnglish,22,6,0.2727272727272727,0
+130,Zusammen geh'n,Tony Wegas,Mixed,10,15,0.6,63
+131,Maria Magdalena,Tony Wegas (2),NotEnglish,14,10,0.4,32
+132,Für den Frieden der Welt,Petra Frey,NotEnglish,17,20,0.8,19
+133,Die Welt dreht sich verkehrt,Stella Jones,NotEnglish,13,8,0.34782608695652173,67
+134,Weil's dr guat got,George Nussbaumer,NotEnglish,10,8,0.34782608695652173,68
+135,One Step,Bettina Soriat,Mixed,21,4,0.15384615384615385,12
+136,Reflection,Bobbie Singer,English,10,18,0.782608695652174,65
+137,All to You,The Rounder Girls,English,14,24,0.9230769230769231,34
+138,Say a Word,Manuel Ortega,English,18,3,0.12,26
+139,Hello from Mars,F.L.Y.,English,24,21,0.8076923076923077,5
+140,Du bist,Tie Break,NotEnglish,21,2,0.08333333333333333,9
+141,Y así,Global.Kryner,Mixed,0,0,0,0
+142,Get a Life – Get Alive,Eric Papilaya,English,0,0,0,0
+143,Don't Break My Heart,Nicola,English,10,24,0.9230769230769231,73
+144,Nanana,Karmen,English,23,26,1,7
+145,Shine,Natália Kelly,English,0,0,0,0
+146,Words for Love (Milim la'ahava) (מילים לאהבה),Lior Narkis,Mixed,19,13,0.5,17
+147,Give Me Your Love,Fame,English,5,25,0.9615384615384616,107
+148,Loin d'ici,Zoë,NotEnglish,13,24,0.9230769230769231,151
+149,Running on Air,Nathan Trent,English,16,4,0.15384615384615385,93
+150,Nobody But You,Cesár Sampson,English,3,5,0.19230769230769232,342
+151,Limits,Pænda,English,0,0,0,0
+152,Alive,Vincent Bueno,English,0,0,0,0
+153,Amen,Vincent Bueno,English,0,0,0,0
+154,Day After Day,Elnur & Samir,English,8,20,0.8,132
+155,Always,AySel & Arash,English,3,11,0.44,207
+156,To Dream Again,Lynn Chircop,English,25,5,0.19230769230769232,4
+157,One More Night,Esther Hart,English,13,14,0.5384615384615384,45
+158,I'm Not Afraid to Move On,Jostein Hasselgård,English,4,18,0.6923076923076923,123
+159,Hold Me,Farid Mammadov,English,2,20,0.7692307692307693,234
+160,Keine Grenzen – Żadnych granic,Ich Troje,Mixed,7,20,0.7692307692307693,90
+161,Deixa-me sonhar (Só mais uma vez),Rita Guerra,Mixed,22,7,0.2692307692307692,13
+162,Miracle,Samra,English,17,4,0.15384615384615385,117
+163,Skeletons,Dihaj,English,14,12,0.46153846153846156,120
+164,X My Heart,Aisel,English,0,0,0,0
+165,Truth,Chingiz,English,8,20,0.7692307692307693,302
+166,Cleopatra,Efendi,English,0,0,0,0
+167,Mata Hari,Efendi,Mixed,20,21,0.7777777777777778,65
+168,My Galileo,Alexandra & Konstantin,English,0,0,0,0
+169,Love Me Tonight,Angelica Agurbash,English,0,0,0,0
+170,"Ne ver', ne boysya (Не верь, не бойся)",t.A.T.u.,Mixed,3,11,0.4230769230769231,164
+171,Work Your Magic,Koldun,English,6,3,0.125,145
+172,Hasta la vista,Ruslan Alehno,English,0,0,0,0
+173,Eyes That Never Lie,Petr Elfimov,English,0,0,0,0
+174,Dime,Beth,NotEnglish,8,12,0.46153846153846156,81
+175,Everyway That I Can,Sertab Erener,English,1,4,0.15384615384615385,167
+176,Hasta la vista,Olexandr,English,14,16,0.6153846153846154,30
+177,Solayoh,Alyona Lanskaya,English,16,8,0.3076923076923077,48
+178,Cry Baby,Jemini,English,26,15,0.5769230769230769,0
+179,Zjarr e ftohtë,Luiz Ejlli,NotEnglish,0,0,0,0
+180,Help You Fly,Ivan,English,0,0,0,0
+181,Story of My Life (Historyja majho žyccia) (Гісторыя майго жыцця),Naviband,NotEnglish,17,3,0.11538461538461539,83
+182,Forever,Alekseev,English,0,0,0,0
+183,Like It,Zena,English,24,19,0.7307692307692307,31
+184,Da Vidna,VAL,NotEnglish,0,0,0,0
+185,"September, gouden roos",Bob Benny (2),NotEnglish,15,11,0.5789473684210527,1
+186,Ton nom,Fud Leclerc (4),NotEnglish,13,2,0.08695652173913043,0
+187,Waarom?,Jacques Raymond,NotEnglish,10,14,0.5384615384615384,4
+188,Près de ma rivière,Robert Cogoi,NotEnglish,10,15,0.75,2
+189,Als het weer lente is,Lize Marke,NotEnglish,15,8,0.3333333333333333,0
+190,"Un peu de poivre, un peu de sel",Tonia,NotEnglish,4,3,0.11538461538461539,14
+191,Ik heb zorgen,Louis Neefs,NotEnglish,7,10,0.47619047619047616,8
+192,Quand tu reviendras,Claude Lombard,NotEnglish,7,3,0.15789473684210525,8
+193,Jennifer Jennings,Louis Neefs (2),NotEnglish,7,10,0.5263157894736842,10
+194,Viens l'oublier,Jean Vallée,NotEnglish,8,5,0.25,5
+195,"Goeiemorgen, morgen",Lily Castel & Jacques Raymond (2),NotEnglish,14,10,0.43478260869565216,68
+196,À la folie ou pas du tout,Serge & Christine Ghisoland,NotEnglish,17,16,0.7272727272727273,55
+197,"Baby, Baby",Nicole & Hugo,Mixed,17,2,0.08,58
+198,Fleur de liberté,Jacques Hustin,NotEnglish,9,11,0.4782608695652174,10
+199,Gelukkig zijn,Ann Christy,Mixed,15,11,0.5789473684210527,17
+200,Judy et Cie,Pierre Rapsat,NotEnglish,8,6,0.2727272727272727,68
+201,"A Million in One, Two, Three",Dream Express (Hearts of Soul) (2),English,7,17,0.68,69
+202,L'amour ça fait chanter la vie,Jean Vallée (2),NotEnglish,2,10,0.5,125
+203,Hey nana,Micha Marah,NotEnglish,18,12,0.5217391304347826,5
+204,Euro-Vision,Telex,NotEnglish,17,19,0.76,14
+205,Samson,Emly Starr,NotEnglish,13,16,0.6956521739130435,40
+206,Si tu aimes ma musique,Stella,NotEnglish,4,11,0.6111111111111112,96
+207,Rendez-vous,Pas de Deux,NotEnglish,18,19,0.8636363636363636,13
+208,Avanti la vie,Jacques Zegers,NotEnglish,5,8,0.3333333333333333,70
+209,Laat me nu gaan,Linda Lepomme,NotEnglish,19,8,0.42105263157894735,7
+210,J'aime la vie,Sandra Kim,NotEnglish,1,13,0.52,176
+211,Soldiers of Love,Liliane Saint-Pierre,NotEnglish,11,5,0.19230769230769232,56
+212,Laissez briller le soleil,Reynaert,NotEnglish,18,16,0.64,5
+213,Door de wind,Ingeborg,NotEnglish,19,6,0.2727272727272727,13
+214,Macédomienne,Philippe Lafontaine,NotEnglish,12,3,0.12,46
+215,Geef het op,Clouseau,NotEnglish,16,18,0.8181818181818182,23
+216,"Nous, on veut des violons",Morgane,NotEnglish,20,2,0.08,11
+217,Iemand als jij,Barbara Dex,NotEnglish,25,7,0.28,3
+218,La voix est libre,Frédéric Etherlinck,NotEnglish,20,14,0.6086956521739131,8
+219,Liefde is een kaartspel,Lisa del Bo,NotEnglish,16,16,0.6956521739130435,22
+220,Dis oui,Mélanie Cohl,NotEnglish,6,20,0.8,122
+221,Like the Wind,Vanessa Chinitor,English,12,2,0.08695652173913043,38
+222,Envie de vivre,Nathalie Sorce,NotEnglish,24,10,0.38461538461538464,2
+223,Sister,Sergio & The Ladies,English,13,16,0.64,33
+224,Ein bißchen Frieden,Nicole,NotEnglish,1,18,1,161
+225,1 Life,Xandee,English,22,13,0.5416666666666666,7
+226,Le grand soir,Nuno Resende,NotEnglish,0,0,0,0
+227,Sense tu,Jenny,NotEnglish,0,0,0,0
+228,LovePower,The KMG's,English,0,0,0,0
+229,O Julissi,Ishtar,NotEnglish,0,0,0,0
+230,Copycat,Copycat,English,0,0,0,0
+231,Mum,Polina Smolova,English,0,0,0,0
+232,Je t'adore,Kate Ryan,English,0,0,0,0
+233,Lejla,Hari Mata Hari,NotEnglish,3,13,0.5416666666666666,229
+234,Love Kills,Roberto Bellarosa,English,12,6,0.23076923076923078,71
+235,Let Me Cry,Mariana Popova,English,0,0,0,0
+236,Why Angels Cry,Annet Artani,English,0,0,0,0
+237,What's the Pressure,Laura Tesoro,English,10,1,0.038461538461538464,181
+238,City Lights,Blanche,English,4,23,0.8846153846153846,363
+239,A Matter of Time,Sennek,English,0,0,0,0
+240,Wake Up,Eliot,English,0,0,0,0
+241,Release Me,Hooverphonic,English,0,0,0,0
+242,The Wrong Place,Hooverphonic,English,19,4,0.14814814814814814,74
+243,Sva bol svijeta,Fazla,NotEnglish,16,18,0.72,27
+244,Ostani kraj mene,Alma & Dejan,NotEnglish,15,18,0.72,39
+245,Dvadeset prvi vijek,Davor Popović,NotEnglish,19,4,0.17391304347826086,14
+246,Za našu ljubav,Amila Glamočak,NotEnglish,22,21,0.9130434782608695,13
+247,Goodbye,Alma Čardžić (2),NotEnglish,18,14,0.5384615384615384,22
+248,Putnici,Dino & Béatrice,Mixed,7,22,0.9565217391304348,86
+249,Hano,Nino Pršeš,Mixed,14,3,0.125,29
+250,Na jastuku za dvoje (На јастуку за двоје),Maja Tatić,Mixed,13,15,0.6,33
+251,Twist of Love,Sidsel Ben Semmane,English,18,9,0.375,26
+252,In the Disco,Deen,English,9,12,0.5,91
+253,Call Me,Feminnem,English,14,21,0.875,79
+254,Through My Window,Sandra Oxenryd,English,0,0,0,0
+255,Rijeka bez imena (Ријека без имена),Marija Šestić,NotEnglish,11,1,0.041666666666666664,106
+256,Pokušaj,Laka,NotEnglish,10,6,0.24,110
+257,Bistra voda,Regina (band),NotEnglish,9,12,0.48,106
+258,No No Never,Texas Lightning,English,14,8,0.3333333333333333,36
+259,Everything,Anna Vissi (3),English,9,16,0.6666666666666666,128
+260,Congratulations,Silvia Night,English,0,0,0,0
+261,Ljubav je,Dalal & Deen (2) feat. Ana Rucner & Jala,NotEnglish,0,0,0,0
+262,Lorraine,Kaffe,English,0,0,0,0
+263,Together We Are One (Ze hazman) (זה הזמן),Eddie Butler,Mixed,23,3,0.125,4
+264,Water (Voda) (Вода),Elitsa Todorova & Stoyan Yankoulov,NotEnglish,5,21,0.875,157
+265,"DJ, Take Me Away",Deep Zone & Balthazar,English,0,0,0,0
+266,Illusion,Krassimir Avramov,English,0,0,0,0
+267,Without Your Love,André,English,8,24,1,129
+268,Moja štikla,Severina,Mixed,12,20,0.8333333333333334,56
+269,Hard Rock Hallelujah,Lordi,English,1,17,0.7083333333333334,292
+270,Samo shampioni (Само шампиони),Elitsa Todorova & Stoyan Yankoulov (2),NotEnglish,0,0,0,0
+271,If Love Was a Crime,Poli Genova (2),Mixed,4,8,0.3076923076923077,307
+272,Beautiful Mess,Kristian Kostov,English,2,25,0.9615384615384616,615
+273,Bones,Equinox,English,14,18,0.6923076923076923,166
+274,Tears Getting Sober,VICTORIA,English,0,0,0,0
+275,Growing Up Is Getting Old,Victoria,English,11,17,0.6296296296296297,170
+276,Don't Ever Cry,Put,Mixed,15,21,0.84,31
+277,Nek' ti bude ljubav sva,Tony Cetinski,NotEnglish,16,7,0.28,27
+278,Nostalgija,Magazin & Lidija,NotEnglish,6,11,0.4782608695652174,91
+279,Sveta ljubav,Maja Blagdan,NotEnglish,4,7,0.30434782608695654,98
+280,Probudi me,E.N.I.,NotEnglish,17,23,0.8846153846153846,24
+281,Neka mi ne svane,Danijela,NotEnglish,5,1,0.04,131
+282,Marija Magdalena,Doris Dragović (2),NotEnglish,4,4,0.17391304347826086,118
+283,Kad zaspu anđeli,Goran Karan,NotEnglish,9,17,0.6538461538461539,70
+284,Strings of My Heart,Vanna,English,10,10,0.4166666666666667,42
+285,Everything I Want,Vesna Pisarović,English,11,6,0.24,44
+286,Il était temps,Virginie Pouchain,NotEnglish,22,19,0.7916666666666666,5
+287,You Are the Only One,Ivan Mikulić,English,12,11,0.4583333333333333,50
+288,Vukovi umiru sami,Boris Novković feat. Lado Members,NotEnglish,11,18,0.75,115
+289,Miazoume (Μοιάζουμε),Takis Biniaris,NotEnglish,16,19,1,15
+290,Vjerujem u ljubav,Dragonfly feat. Dado Topić,Mixed,0,0,0,0
+291,Romanca,Kraljevi ulice & 75 cents,NotEnglish,21,9,0.36,44
+292,Lijepa Tena,Igor Cukrov feat. Andrea,NotEnglish,18,5,0.2,45
+293,I Hear Your Heart,Vocal Group Cosmos,English,16,4,0.16666666666666666,30
+294,We Are the Winners,LT United,Mixed,6,14,0.5833333333333334,162
+295,Every Song Is a Cry for Love,Brian Kennedy,English,10,21,0.875,93
+296,Mižerja,Klapa s Mora,NotEnglish,0,0,0,0
+297,Lighthouse,Nina Kraljić,English,23,17,0.6538461538461539,73
+298,My Friend,Jacques Houdek,Mixed,13,13,0.5,128
+299,Crazy,Franka,English,0,0,0,0
+300,The Dream (Heroj),Roko,Mixed,0,0,0,0
+301,Divlji Vjetre,Damir Kedžo,NotEnglish,0,0,0,0
+302,Tick-Tock,Albina,Mixed,0,0,0,0
+303,Monika (Μόνικα),Island,NotEnglish,6,18,0.782608695652174,69
+304,Mono i agapi (Μόνο η αγάπη),Anna Vissi (2),NotEnglish,5,8,0.4444444444444444,85
+305,I agapi akoma zi (Η αγάπη ακόμα ζει),Stavros & Constantina,NotEnglish,16,13,0.5909090909090909,26
+306,Anna Maria Lena (Άννα Μαρία Λένα),Andy Paul,NotEnglish,15,7,0.2916666666666667,31
+307,To katalava arga (Το κατάλαβα αργά),Lia Vissi,NotEnglish,16,3,0.15789473684210525,15
+308,Tora zo (Τώρα ζω),Elpida (2),NotEnglish,20,15,0.6,4
+309,Aspro-mavro (Άσπρο-μαύρο),Alexia,NotEnglish,7,17,0.6538461538461539,80
+310,Apopse as vrethume (Απόψε ας βρεθούμε),Fani Polymeri & Yiannis Savvidakis,NotEnglish,11,17,0.7727272727272727,51
+311,Milas poli (Μιλάς πολύ),Anastazio,NotEnglish,14,21,0.84,36
+312,S.O.S.,Elena Patroklou,NotEnglish,9,21,0.9545454545454546,60
+313,Teriazoume (Ταιριάζουμε),Evridiki,NotEnglish,11,9,0.36,57
+314,Comme è ddoce 'o mare,Peppino di Capri,NotEnglish,7,22,1,89
+315,Ime anthropos ki ego (Είμαι άνθρωπος κι εγώ),Evridiki (2),NotEnglish,11,4,0.16,51
+316,Sti fotia (Στη φωτιά),Alexandros Panayi,NotEnglish,9,17,0.7391304347826086,79
+317,Mono yia mas (Μόνο για μας),Constantinos Christoforou,NotEnglish,9,5,0.21739130434782608,72
+318,Mana mou (Μάνα μου),Hara & Andreas Konstantinou,NotEnglish,5,1,0.038461538461538464,98
+319,Genesis (Γένεσις),Michael Hajiyanni,NotEnglish,11,17,0.68,37
+320,Tha'ne erotas (Θα'ναι έρωτας),Marlain,NotEnglish,22,14,0.6086956521739131,2
+321,Nomiza (Νόμιζα),Voice,Mixed,21,11,0.4230769230769231,8
+322,Gimme,One,English,6,1,0.04,85
+323,Ninanajna (Нинанајна),Elena Risteska,Mixed,12,11,0.4583333333333333,56
+324,Stronger Every Minute,Lisa Andreas,English,5,21,0.875,170
+325,Ela ela (Come Baby) (Έλα έλα),Constantinos Christoforou (2),English,18,9,0.375,46
+326,Invincible,Carola (3),English,5,22,0.9166666666666666,170
+327,"Comme ci, comme ça",Evridiki (3),NotEnglish,0,0,0,0
+328,Femme fatale,Evdokia Kadi,NotEnglish,0,0,0,0
+329,Firefly,Christina Metaxa,English,0,0,0,0
+330,I Do,Fabrizio Faniello (2),English,24,7,0.2916666666666667,1
+331,Süper star,Sibel Tüzün,Mixed,11,23,0.9583333333333334,91
+332,Loca,Arsenium feat. Natalia Gordienko & Connect-R,Mixed,20,2,0.08333333333333333,22
+333,An me thimase (Aν με θυμάσαι),Despina Olympiou,NotEnglish,0,0,0,0
+334,Show Me Your Love,Tina Karol,English,7,18,0.75,145
+335,Alter Ego,Minus One,English,21,14,0.5384615384615384,96
+336,Gravity,Hovig,English,21,19,0.7307692307692307,68
+337,Fuego,Eleni Foureira,English,2,25,0.9615384615384616,436
+338,Replay,Tamta,English,13,11,0.4230769230769231,109
+339,Running,Sandro,English,0,0,0,0
+340,El Diablo,Elena Tsagrinou,English,16,1,0.037037037037037035,94
+341,Malá dáma,Kabát,NotEnglish,0,0,0,0
+342,Have Some Fun,Tereza Kerndlová,English,0,0,0,0
+343,Aven Romale,Gipsy.cz,Mixed,0,0,0,0
+344,La coco-dance,Séverine Ferrer,Mixed,0,0,0,0
+345,I Stand,Gabriela Gunčíková,English,25,2,0.07692307692307693,41
+346,My Turn,Martina Bárta,English,0,0,0,0
+347,Lie to Me,Mikolas Josef,English,6,14,0.5384615384615384,281
+348,Friend of a Friend,Lake Malawi,English,11,3,0.11538461538461539,157
+349,Kemama,Benny Cristo,English,0,0,0,0
+350,omaga,Benny Cristo,Mixed,0,0,0,0
+351,Angelique,Dario Campeotto,NotEnglish,5,13,0.6842105263157895,12
+352,Vuggevise,Ellen Winther,NotEnglish,10,5,0.21739130434782608,2
+353,Dansevise,Grethe & Jørgen Ingmann,NotEnglish,1,8,0.3076923076923077,42
+354,Sangen om dig,Bjørn Tidmand,NotEnglish,9,4,0.2,4
+355,For din skyld,Birgit Brüel,NotEnglish,7,14,0.5833333333333334,10
+356,Stop – mens legen er go',Ulla Pia,NotEnglish,14,2,0.07692307692307693,4
+357,Boom boom,Mabel,NotEnglish,16,16,0.8,13
+358,Disco tango,Tommy Seebach,NotEnglish,6,3,0.13043478260869565,76
+359,Tænker altid på dig,Bamses Venner,NotEnglish,14,7,0.28,25
+360,Krøller eller ej,Tommy Seebach (2) & Debbie Cameron,NotEnglish,11,6,0.2608695652173913,41
+361,"Video, video",Brixx,NotEnglish,17,13,0.7222222222222222,5
+362,Kloden drejer,Gry Johansen,NotEnglish,17,15,0.6818181818181818,16
+363,Det' lige det,Hot Eyes,NotEnglish,4,10,0.4166666666666667,101
+364,Sku' du spørg' fra no'en?,Hot Eyes (2),NotEnglish,11,4,0.21052631578947367,41
+365,Du er fuld af løgn,Lise Haavik,NotEnglish,6,18,0.72,77
+366,En lille melodi,Anne-Cathrine Herdorf & Bandjo,NotEnglish,5,19,0.7307692307692307,83
+367,Ka' du se hva' jeg sa'?,Kirsten & Søren (Hot Eyes) (3),NotEnglish,3,13,0.52,92
+368,Vi maler byen rød,Birthe Kjær,NotEnglish,3,12,0.5454545454545454,111
+369,Hallo hallo,Lonnie Devantier,NotEnglish,8,11,0.44,64
+370,Lige der hvor hjertet slår,Anders Frandsen,NotEnglish,19,13,0.5909090909090909,8
+371,Alt det som ingen ser,Lotte Nilsson & Kenny Lübcke,NotEnglish,12,18,0.72,47
+372,Under stjernerne på himlen,Tommy Seebach (3) Band,NotEnglish,22,5,0.2,9
+373,Mi stamatas (Μη σταματάς),Zymboulakis & Van Beke,NotEnglish,19,23,0.92,17
+374,Stemmen i mit liv,Kølig Kaj,NotEnglish,16,21,0.8076923076923077,25
+375,This Time I Mean It,Trine Jepsen & Michael Teschl,English,8,9,0.391304347826087,71
+376,Fly on the Wings of Love,Olsen Brothers,English,1,14,0.5384615384615384,195
+377,Never Ever Let You Go,Rollo & King,English,2,23,0.9583333333333334,177
+378,Tell Me Who You Are,Malene,English,24,14,0.56,7
+379,Shame on You,Tomas Thordarson,English,0,0,0,0
+380,Talking to You,Jakob Sveistrup,English,9,13,0.5416666666666666,125
+381,Amambanda,Treble,Mixed,0,0,0,0
+382,Drama Queen,DQ,English,0,0,0,0
+383,All Night Long,Simon Mathew,English,15,16,0.64,60
+384,Believe Again,Brinck,English,13,16,0.64,74
+385,Shiru (שירו),Lahakat Shiru,Mixed,24,24,0.96,4
+386,Alvedansen,Christine Guldbrandsen,NotEnglish,14,5,0.20833333333333334,36
+387,Follow My Heart,Ich Troje (2) feat. Real McCoy,Mixed,0,0,0,0
+388,Only Teardrops,Emmelie de Forest,English,1,18,0.6923076923076923,281
+389,Alle mine tankar,Silje Vige,NotEnglish,5,25,1,120
+390,Coisas de nada (Gonna Make You Dance),Nonstop,Mixed,0,0,0,0
+391,Soldiers of Love,Lighthouse X,English,0,0,0,0
+392,Where I Am,Anja,English,20,10,0.38461538461538464,77
+393,Higher Ground,Rasmussen,Mixed,9,15,0.5769230769230769,226
+394,Love Is Forever,Leonora,Mixed,12,6,0.23076923076923078,120
+395,YES,Ben & Tan,English,0,0,0,0
+396,Øve Os På Hinanden,Fyr Og Flamme,NotEnglish,0,0,0,0
+397,Nagu merelaine,Silvi Vrait,NotEnglish,24,10,0.4,2
+398,Kaelakee hääl,Maarja-Liis Ilus & Ivo Linna,NotEnglish,5,11,0.4782608695652174,94
+399,Keelatud maa,Maarja-Liis Ilus (2),NotEnglish,8,13,0.5,82
+400,Mere lapsed,Koit Toome,NotEnglish,12,23,0.92,36
+401,Fra Mols til Skagen,Aud Wilken,NotEnglish,5,19,0.8260869565217391,92
+402,Once in a Lifetime,Ines,English,4,4,0.15384615384615385,98
+403,Everybody,"Tanel Padar, Dave Benton & 2XL",English,1,20,0.8333333333333334,198
+404,Runaway,Sahlene,English,3,8,0.32,111
+405,Pia prosefhi (Ποια προσευχή),Elina Konstantopoulou,NotEnglish,12,23,1,68
+406,Tii,Neiokõsõ,NotEnglish,0,0,0,0
+407,Let's Get Loud,Suntribe,English,0,0,0,0
+408,Tornerò,Mihai Trăistariu,Mixed,4,12,0.5,172
+409,Partners in Crime,Gerli Padar,English,0,0,0,0
+410,Leto svet,Kreisiraadio,Mixed,0,0,0,0
+411,Rändajad,Urban Symphony,NotEnglish,6,15,0.6,129
+412,Never Let You Go,Dima Bilan,English,2,10,0.4166666666666667,248
+413,Mr Nobody,Anžej Dežan,English,0,0,0,0
+414,Un Blodymary,Las Ketchup,NotEnglish,21,6,0.25,18
+415,Et uus saaks alguse,Birgit,NotEnglish,20,7,0.2692307692307692,19
+416,If We All Give a Little,six4one,English,16,1,0.041666666666666664,30
+417,Teenage Life,Daz Sampson,English,19,15,0.625,25
+418,Play,Jüri Pootsmann,English,0,0,0,0
+419,Verona,Koit Toome (2) & Laura,English,0,0,0,0
+420,La forza,Elina Nechayeva,NotEnglish,8,6,0.23076923076923078,245
+421,Storm,Victor Crone,English,20,18,0.6923076923076923,76
+422,What Love Is,Uku Suviste,English,0,0,0,0
+423,The Lucky One,Uku Suviste,English,0,0,0,0
+424,Valoa ikkunassa,Laila Kinnunen,NotEnglish,10,4,0.21052631578947367,6
+425,Tipi-tii,Marion Rung,NotEnglish,7,1,0.043478260869565216,4
+426,Muistojeni laulu,Laila Halme,NotEnglish,13,7,0.2692307692307692,0
+427,Laiskotellen,Lasse Mårtenson,Mixed,7,5,0.25,9
+428,Aurinko laskee länteen,Viktor Klimenko,NotEnglish,15,16,0.6666666666666666,0
+429,Playboy,Ann Christine,NotEnglish,10,7,0.2692307692307692,7
+430,Varjoon – suojaan,Fredi,NotEnglish,12,8,0.38095238095238093,3
+431,Kun kello käy,Kristina Hautala,NotEnglish,16,9,0.47368421052631576,1
+432,Kuin silloin ennen,Jarkko & Laura,NotEnglish,12,16,0.8421052631578947,6
+433,Tie uuteen päivään,Markku Aro & Koivistolaiset,NotEnglish,8,17,0.7391304347826086,84
+434,Muistathan,Päivi Paunu & Kim Floor,NotEnglish,12,10,0.45454545454545453,78
+435,Tom Tom Tom,Marion Rung (2),English,6,1,0.04,93
+436,Keep Me Warm,Carita,English,13,1,0.043478260869565216,4
+437,Old Man Fiddle,Pihasoittajat,English,7,15,0.7894736842105263,74
+438,Pump-Pump,Fredi (2) & Ystävät,English,11,11,0.5,44
+439,Lapponia,Monica Aspelund,NotEnglish,10,16,0.64,50
+440,Anna rakkaudelle tilaisuus,Seija Simola,NotEnglish,18,4,0.2,2
+441,Katson sineen taivaan,Katri Helena,NotEnglish,14,5,0.21739130434782608,38
+442,Huilumies,Vesa-Matti Loiri,NotEnglish,19,10,0.4,6
+443,Reggae OK,Riki Sorsa,NotEnglish,16,8,0.34782608695652173,27
+444,Nuku pommiin,Kojo,NotEnglish,18,6,0.3333333333333333,0
+445,Fantasiaa,Ami Aspelund,NotEnglish,11,9,0.4090909090909091,41
+446,Hengaillaan,Kirka,NotEnglish,9,16,0.6666666666666666,46
+447,Eläköön elämä,Sonja Lumme,NotEnglish,9,2,0.10526315789473684,58
+448,Never the End (Päivä kahden ihmisen),Kari,NotEnglish,15,19,0.76,22
+449,Sata salamaa,Vicky Rosti feat. Boulevard,NotEnglish,15,18,0.6923076923076923,32
+450,Nauravat silmät muistetaan,Boulevard (2),NotEnglish,20,3,0.12,3
+451,La dolce vita,Anneli Saaristo,NotEnglish,7,14,0.6363636363636364,76
+452,Fri?,Beat,NotEnglish,21,22,0.88,8
+453,Hullu yö,Kaija,NotEnglish,20,16,0.7272727272727273,6
+454,"Yamma, yamma",Pave,NotEnglish,23,12,0.48,4
+455,Tule luo,Katri Helena (2),NotEnglish,17,17,0.68,20
+456,Bye Bye Baby,CatCat,Mixed,22,2,0.08,11
+457,Niin kaunis on taivas,Jasmine,NotEnglish,23,18,0.782608695652174,9
+458,Aava,Edea,NotEnglish,15,21,0.84,22
+459,A Little Bit,Nina Åström,English,18,20,0.7692307692307693,18
+460,Addicted to You,Laura,English,20,13,0.52,24
+461,Takes 2 to Tango,Jari Sillanpää,English,0,0,0,0
+462,Why,Geir Rönning,English,0,0,0,0
+463,Amen (אמן),Liora,NotEnglish,8,21,0.9130434782608695,81
+464,Leave Me Alone,Hanna,English,17,5,0.20833333333333334,53
+465,Missä miehet ratsastaa,Teräsbetoni,NotEnglish,22,8,0.32,35
+466,Lose Control,Waldo's People,English,25,24,0.96,22
+467,It's All About You,Juliana Pasha,English,16,15,0.6,62
+468,Drip Drop,Safura,English,5,1,0.04,145
+469,Butterflies,3+2 feat. Robert Wells,English,24,9,0.36,18
+470,Marry Me,Krista Siegfrids,English,24,4,0.15384615384615385,13
+471,Me and My Guitar,Tom Dice,English,6,7,0.28,143
+472,Thunder and Lightning,Vukašin Brajić,English,17,6,0.24,51
+473,Sing It Away,Sandhja,English,0,0,0,0
+474,Blackbird,Norma John,English,0,0,0,0
+475,Monsters,Saara Aalto,English,25,17,0.6538461538461539,46
+476,Look Away,Darude feat. Sebastian Rejman,English,0,0,0,0
+477,Looking Back,Aksel,English,0,0,0,0
+478,Dark Side,Blind Channel,English,6,16,0.5925925925925926,301
+479,Printemps (Avril carillonne),Jean-Paul Mauric,NotEnglish,4,9,0.47368421052631576,13
+480,Un premier amour,Isabelle Aubret,NotEnglish,1,9,0.391304347826087,26
+481,Elle était si jolie,Alain Barrière,NotEnglish,5,11,0.4230769230769231,25
+482,Le chant de Mallory,Rachel,NotEnglish,4,7,0.35,14
+483,N'avoue jamais,Guy Mardel,NotEnglish,3,11,0.4583333333333333,22
+484,Chez nous,Dominique Walter,NotEnglish,16,15,0.5769230769230769,1
+485,Il doit faire beau là-bas,Noëlle Cordier,NotEnglish,3,4,0.19047619047619047,20
+486,La source,Isabelle Aubret (2),NotEnglish,3,10,0.5263157894736842,20
+487,"Un jour, un enfant",Frida Boccara,NotEnglish,1,14,0.7368421052631579,18
+488,Marie-Blanche,Guy Bonnet,NotEnglish,4,6,0.3,8
+489,Un jardin sur la terre,Serge Lama,NotEnglish,10,7,0.30434782608695654,82
+490,Comé-comédie,Betty Mars,NotEnglish,11,2,0.09090909090909091,81
+491,Sans toi,Martine Clémenceau,NotEnglish,15,16,0.64,65
+492,Et bonjour à toi l'artiste,Nicole Rieu,NotEnglish,4,3,0.15789473684210525,91
+493,"Un, deux, trois",Catherine Ferry,NotEnglish,2,17,0.7727272727272727,147
+494,L'oiseau et l'enfant,Marie Myriam,NotEnglish,1,18,0.72,136
+495,Il y aura toujours des violons,Joël Prévost,NotEnglish,3,6,0.3,119
+496,Je suis l'enfant soleil,Anne-Marie David (2),NotEnglish,3,11,0.4782608695652174,106
+497,"Hé, hé, m'sieurs dames",Profil,NotEnglish,11,16,0.64,45
+498,Humanahum,Jean Gabilou,NotEnglish,3,9,0.391304347826087,125
+499,Vivre,Guy Bonnet (2),NotEnglish,8,1,0.045454545454545456,56
+500,Autant d'amoureux que d'étoiles,Annick Thoumazeau,NotEnglish,8,3,0.125,61
+501,Femme dans ses rêves aussi,Roger Bens,NotEnglish,10,6,0.3157894736842105,56
+502,Européennes,Cocktail Chic,NotEnglish,17,3,0.12,13
+503,Les mots d'amour n'ont pas de dimanche,Christine Minier,NotEnglish,14,15,0.5769230769230769,44
+504,Chanteur de charme,Gérard Lenorman,NotEnglish,10,19,0.76,64
+505,J'ai volé la vie,Nathalie Pâque,NotEnglish,8,15,0.6818181818181818,60
+506,White and Black Blues,Joëlle Ursull,NotEnglish,2,14,0.56,132
+507,C'est le dernier qui a parlé qui a raison,Amina,NotEnglish,2,9,0.4090909090909091,146
+508,Monté la riviè,Kali,Mixed,8,6,0.24,73
+509,Mama Corsica,Patrick Fiori,NotEnglish,4,12,0.48,121
+510,Je suis un vrai garçon,Nina Morato,NotEnglish,7,25,1,74
+511,Il me donne rendez-vous,Nathalie Santamaria,NotEnglish,4,12,0.5217391304347826,94
+512,Diwanit bugale,Dan Ar Braz & L'Héritage des Celtes,NotEnglish,19,13,0.5652173913043478,18
+513,Sentiments songes,Fanny,NotEnglish,7,22,0.8461538461538461,95
+514,Où aller,Marie Line,NotEnglish,24,3,0.12,3
+515,Je veux donner ma voix,Nayah,NotEnglish,19,10,0.43478260869565216,14
+516,On aura le ciel,Sofia Mestari,NotEnglish,23,5,0.19230769230769232,5
+517,Je n'ai que mon âme,Natasha St-Pier,Mixed,4,14,0.5833333333333334,142
+518,Il faut du temps (Je me battrai pour ça),Sandrine François,NotEnglish,5,17,0.68,104
+519,Angel si ti (You Are an Angel) (Ангел си ти),Miro,NotEnglish,0,0,0,0
+520,À chaque pas,Jonatan Cerrada,Mixed,15,4,0.16666666666666666,40
+521,Chacun pense à soi,Ortal,NotEnglish,23,24,1,11
+522,Keep Me in Mind,Mike Spiteri,English,10,22,0.9565217391304348,76
+523,L'amour à la française,Les Fatals Picards,Mixed,22,13,0.5416666666666666,19
+524,Divine,Sébastien Tellier,Mixed,19,19,0.76,47
+525,Et s'il fallait le faire,Patricia Kaas,NotEnglish,8,3,0.12,107
+526,Lako je sve,Feminnem (2),NotEnglish,0,0,0,0
+527,Life Looks Better in Spring,Jon Lilygreen & The Islanders,English,21,5,0.2,27
+528,Siren,Malcolm Lincoln feat. Manpower 4,English,0,0,0,0
+529,L'enfer et moi,Amandine Bourgeois,NotEnglish,23,1,0.038461538461538464,14
+530,Työlki ellää,Kuunkuiskaajat,NotEnglish,0,0,0,0
+531,Allez ola olé,Jessy Matador,NotEnglish,12,18,0.72,82
+532,J'ai cherché,Amir,Mixed,6,11,0.4230769230769231,257
+533,Requiem,Alma,Mixed,12,26,1,135
+534,Mercy,Madame Monsieur,NotEnglish,13,13,0.5,173
+535,Roi,Bilal Hassani,Mixed,16,21,0.8076923076923077,105
+536,Mon Alliée (The Best In Me),Tom Leeb,Mixed,0,0,0,0
+537,Voilà,Barbara Pravi,NotEnglish,2,20,0.7407407407407407,499
+538,Visionary Dream,Sopho,English,12,11,0.4583333333333333,97
+539,Peace Will Come,Diana Gurtskaya,English,11,17,0.68,83
+540,Shine,Sofia Nizharadze,English,9,13,0.52,136
+541,Prisluhni mi,Darja Švajger,NotEnglish,7,20,0.8695652173913043,84
+542,OPA (ΩΠΑ),Giorgos Alkaios & Friends,NotEnglish,8,11,0.44,140
+543,Waterfall,Nodi Tatishvili & Sophie Gelovani,English,15,25,0.9615384615384616,50
+544,Je ne sais quoi,Hera Björk,Mixed,19,16,0.64,41
+545,It's for You,Niamh Kavanagh (2),English,23,10,0.4,25
+546,Midnight Gold,Nika Kocharov & Young Georgian Lolitaz,English,20,23,0.8846153846153846,104
+547,Keep the Faith,Tamara Gachechiladze,English,0,0,0,0
+548,For You (Sheni gulistvis) (შენი გულისთვის),Ethno-Jazz Band Iriao,NotEnglish,0,0,0,0
+549,Keep on Going (Sul tsin iare) (სულ წინ იარე),Oto Nemsadze,NotEnglish,0,0,0,0
+550,Take Me As I Am,Tornike Kipiani,English,0,0,0,0
+551,You,Tornike Kipiani,English,0,0,0,0
+552,Einmal sehen wir uns wieder,Lale Andersen,Mixed,13,8,0.42105263157894735,3
+553,Zwei kleine Italiener,Conny Froboess,NotEnglish,6,7,0.30434782608695654,9
+554,Marcel,Heidi Brühl,NotEnglish,9,3,0.11538461538461539,5
+555,Man gewöhnt sich so schnell an das Schöne,Nora Nova,NotEnglish,13,9,0.45,0
+556,"Paradies, wo bist du?",Ulla Wiesner,NotEnglish,15,5,0.20833333333333334,0
+557,Die Zeiger der Uhr,Margot Eskens,NotEnglish,10,1,0.038461538461538464,7
+558,Anouschka,Inge Brück,NotEnglish,8,9,0.42857142857142855,7
+559,Ein Hoch der Liebe,Wenche Myhre,NotEnglish,6,16,0.8421052631578947,11
+560,Primaballerina,Siw Malmkvist (2),NotEnglish,9,13,0.6842105263157895,8
+561,Wunder gibt es immer wieder,Katja Ebstein,NotEnglish,3,11,0.55,12
+562,Diese Welt,Katja Ebstein (2),NotEnglish,3,5,0.21739130434782608,100
+563,Nur die Liebe läßt uns leben,Mary Roos,NotEnglish,3,1,0.045454545454545456,107
+564,Junger Tag,Gitte,NotEnglish,8,4,0.16,85
+565,Die Sommermelodie,Cindy & Bert,NotEnglish,14,14,0.6086956521739131,3
+566,Ein Lied kann eine Brücke sein,Joy Fleming,Mixed,17,4,0.21052631578947367,15
+567,Sing Sang Song,Les Humphries Singers,NotEnglish,15,3,0.13636363636363635,12
+568,Telegram,Silver Convention,English,8,6,0.24,55
+569,Feuer,Ireen Sheer (2),NotEnglish,6,13,0.65,84
+570,Dschinghis Khan,Dschinghis Khan,NotEnglish,4,9,0.391304347826087,86
+571,Theater,Katja Ebstein (3),NotEnglish,2,12,0.48,128
+572,Johnny Blue,Lena Valaitis,NotEnglish,2,3,0.13043478260869565,132
+573,Se på mig,Jan Johansen,NotEnglish,3,18,0.782608695652174,100
+574,Rücksicht,Hoffmann & Hoffmann,NotEnglish,5,14,0.6363636363636364,94
+575,Aufrecht geh'n,Mary Roos (2),NotEnglish,13,14,0.5833333333333334,34
+576,Für alle,Wind,NotEnglish,2,10,0.5263157894736842,105
+577,Über die Brücke geh'n,Ingrid Peters,NotEnglish,8,14,0.56,62
+578,Lass die Sonne in dein Herz,Wind (2),NotEnglish,2,16,0.6153846153846154,141
+579,Lied für einen Freund,Maxi & Chris Garden,NotEnglish,14,11,0.44,48
+580,Flieger,Nino de Angelo,NotEnglish,14,21,0.9545454545454546,46
+581,Frei zu leben,Chris Kempers & Daniel Kovac,NotEnglish,9,13,0.52,60
+582,Dieser Traum darf niemals sterben,Atlantis 2000,NotEnglish,18,17,0.7727272727272727,10
+583,Träume sind für alle da,Wind (3),NotEnglish,16,22,0.88,27
+584,Viel zu weit,Münchener Freiheit,NotEnglish,18,3,0.12,18
+585,Wir geben 'ne Party,MeKaDo,Mixed,3,14,0.56,128
+586,Verliebt in Dich,Stone & Stone,NotEnglish,23,3,0.13043478260869565,1
+587,Zeit,Bianca Shomburg,NotEnglish,18,11,0.4230769230769231,22
+588,Guildo hat euch lieb!,Guildo Horn feat. Die Orthopädischen Strümpfe,NotEnglish,7,9,0.36,86
+589,Reise nach Jerusalem – Kudüs'e seyahat,Sürpriz,Mixed,3,21,0.9130434782608695,140
+590,Wadde hadde dudde da?,Stefan Raab,Mixed,5,15,0.5769230769230769,96
+591,Wer Liebe lebt,Michelle,Mixed,8,19,0.7916666666666666,66
+592,I Can't Live Without Music,Corinna May,English,21,18,0.72,17
+593,What For?,Aisha,English,0,0,0,0
+594,Can't Wait Until Tonight,Max,Mixed,8,8,0.3333333333333333,93
+595,Run & Hide,Gracia,English,24,17,0.7083333333333334,4
+596,Eastern European Funk,InCulto,English,0,0,0,0
+597,Frauen regier'n die Welt,Roger Cicero,Mixed,19,16,0.6666666666666666,49
+598,Disappear,No Angels,English,23,4,0.16,14
+599,Miss Kiss Kiss Bang,Alex Swings Oscar Sings!,English,20,17,0.68,35
+600,"Ne zori, zoro (Не зори, зоро)",Vlado Janevski,NotEnglish,19,25,1,16
+601,Jas ja imam silata (Јас ја имам силата),Gjoko Taneski,NotEnglish,0,0,0,0
+602,My Dream,Thea Garrett,English,0,0,0,0
+603,Glorious,Cascada,English,21,11,0.4230769230769231,18
+604,Run Away,SunStroke Project & Olia Tira,English,22,4,0.16,27
+605,Ik ben verliefd (Sha-la-lie),Sieneke,NotEnglish,0,0,0,0
+606,Ghost,Jamie-Lee,English,26,10,0.38461538461538464,11
+607,Perfect Life,Levina,English,25,21,0.8076923076923077,6
+608,You Let Me Walk Alone,Michael Schulte,English,4,11,0.4230769230769231,340
+609,Sister,S!sters,English,25,4,0.15384615384615385,24
+610,Violent Thing,Ben Dolic,English,0,0,0,0
+611,I Don't Feel Hate,Jendrik,English,25,15,0.5555555555555556,3
+612,"Krasi, thalassa ke t' agori mou_x000D_
+(Κρασί, θάλασσα και τ' αγόρι μου)",Marinella,NotEnglish,11,5,0.21739130434782608,7
+613,"Panagia mou, Panagia mou (Παναγιά μου, Παναγιά μου)",Mariza Koch,NotEnglish,13,10,0.45454545454545453,20
+614,Mathima solfege (Μάθημα σολφέζ),"Pascalis, Marianna, Robert & Bessy",NotEnglish,5,10,0.4,92
+615,Charlie Chaplin (Τσάρλυ Τσάπλιν),Tania Tsanaklidou,NotEnglish,8,15,0.75,66
+616,Sokrati (Σωκράτη),Elpida,NotEnglish,8,7,0.30434782608695654,69
+617,Autostop (Ωτοστόπ),Anna Vissi & Epikouri,NotEnglish,13,3,0.12,30
+618,Feggari kalokerino (Φεγγάρι καλοκαιρινό),Yiannis Dimitras,NotEnglish,8,17,0.7391304347826086,55
+619,Mou les (Μου λες),Christie Stassinopoulou,NotEnglish,14,10,0.45454545454545453,32
+620,Diamond of Night,Evelin Samuel & Camille,English,6,23,1,90
+621,Stop (Στοπ),Bang,NotEnglish,10,11,0.4230769230769231,64
+622,Kloun (Κλόουν),Afrodite Fryda,NotEnglish,17,14,0.56,10
+623,To diko sou asteri (Το δικό σου αστέρι),Marianna Efstratiou,NotEnglish,9,19,0.8636363636363636,56
+624,Horis skopo (Χωρίς σκοπό),Christos Callow feat. Wave,NotEnglish,19,2,0.08,11
+625,I anixi (Η άνοιξη),Sophia Vossou,NotEnglish,13,4,0.18181818181818182,36
+626,Olou tou kosmou i Elpida (Όλου του κόσμου η Ελπίδα),Cleopatra,NotEnglish,5,5,0.2,94
+627,"Ellada, hora tou fotos (Ελλάδα, χώρα του φωτός)",Katerina Garbi,NotEnglish,9,6,0.24,64
+628,To trehandiri (Diri diri) (Το τρεχαντήρι (Ντίρι ντίρι)),Kostas Bigalis & The Sea Lovers,NotEnglish,14,19,0.76,44
+629,Apricot Stone,Eva Rivas,English,7,21,0.84,141
+630,Emis forame to himona anixiatika (Εμείς φοράμε το χειμώνα ανοιξιάτικα),Marianna Efstratiou (2),NotEnglish,14,10,0.43478260869565216,36
+631,Horepse (Χόρεψε),Marianna Zorba,NotEnglish,12,17,0.6538461538461539,39
+632,Mia krifi evesthisia (Μια κρυφή ευαισθησία),Thalassa,NotEnglish,20,2,0.08,12
+633,(I Would) Die for You,Antique,Mixed,3,22,0.9166666666666666,147
+634,S.A.G.A.P.O.,Michalis Rakintzis,English,17,4,0.16,27
+635,In a Moment Like This,Chanée & n'evergreen,English,4,25,1,149
+636,Shake It,Sakis Rouvas,English,3,16,0.6666666666666666,252
+637,My Number One,Helena Paparizou,English,1,19,0.7916666666666666,230
+638,My Heart Is Yours,Didrik Solli-Tangen,English,20,3,0.12,35
+639,Yassou Maria (Γειά σου Μαρία),Sarbel,English,7,10,0.4166666666666667,139
+640,Secret Combination,Kalomira,English,3,21,0.84,218
+641,This Is Our Night,Sakis Rouvas (2),English,7,8,0.32,120
+642,Legenda,Marcin Mroziński,Mixed,0,0,0,0
+643,Satellite,Lena,English,1,22,0.88,246
+644,Milim (מילים),Harel Skaat,NotEnglish,14,24,0.96,71
+645,Alcohol Is Free,Koza Mostra feat. Agathon Iakovidis,NotEnglish,6,21,0.8076923076923077,152
+646,Há dias assim,Filipa Azevedo,NotEnglish,18,23,0.92,43
+647,Playing with Fire,Paula Seling & Ovi,English,3,19,0.76,162
+648,Utopian Land,Argo,Mixed,0,0,0,0
+649,This Is Love,Demy,English,19,15,0.5769230769230769,77
+650,Oniro mou (Όνειρό μου),Yianna Terzi,NotEnglish,0,0,0,0
+651,Better Love,Katerine Duska,English,21,13,0.5,74
+652,SUPERG!RL,Stefania,English,0,0,0,0
+653,Last Dance,Stefania,English,10,10,0.37037037037037035,170
+654,Kinek mondjam el vétkeimet?,Friderika,NotEnglish,4,22,0.88,122
+655,Új név a régi ház falán,Csaba Szigeti,NotEnglish,22,13,0.5652173913043478,3
+656,"Miért kell, hogy elmenj?",V.I.P.,NotEnglish,12,19,0.7307692307692307,39
+657,A holnap már nem lesz szomorú,Charlie,NotEnglish,23,11,0.44,4
+658,"Forogj, világ!",Nox,NotEnglish,12,1,0.041666666666666664,97
+659,Unsubstantial Blues,Magdi Rúzsa,English,9,8,0.3333333333333333,128
+660,Candlelight (Szívverés),Csézy,Mixed,0,0,0,0
+661,Dance with Me,Zoli Ádok,English,0,0,0,0
+662,Lost and Forgotten,Peter Nalitch & Friends,English,11,20,0.8,90
+663,Ovo je Balkan (Oво je Балкан),Milan Stanković,NotEnglish,13,8,0.32,72
+664,Kedvesem (Zoohacker Remix),ByeAlex,NotEnglish,10,17,0.6538461538461539,84
+665,Horehronie,Kristína,NotEnglish,0,0,0,0
+666,Narodnozabavni rock,Ansambel Žlindra & Kalamari,NotEnglish,0,0,0,0
+667,Pioneer,Freddie,English,19,5,0.19230769230769232,108
+668,Origo,Joci Pápai,NotEnglish,8,8,0.3076923076923077,200
+669,Viszlát nyár,AWS,NotEnglish,21,21,0.8076923076923077,93
+670,Az én apám,Joci Pápai (2),NotEnglish,0,0,0,0
+671,Gleðibankinn,ICY,NotEnglish,16,6,0.24,19
+672,Hægt og hljótt,Halla Margrét,NotEnglish,16,4,0.15384615384615385,28
+673,Þú og þeir (Sókrates),Beathoven,NotEnglish,16,1,0.04,20
+674,Það sem enginn sér,Daníel Ágúst Haraldsson,NotEnglish,22,20,0.9090909090909091,0
+675,Eitt lag enn,Stjórnin,NotEnglish,4,8,0.32,124
+676,Draumur um Nínu (Nína),Stefán & Eyfi,NotEnglish,15,2,0.09090909090909091,26
+677,Nei eða já,Heart 2 Heart,NotEnglish,7,11,0.44,80
+678,Þá veistu svarið,Inga,NotEnglish,13,9,0.36,42
+679,Nætur,Sigga,NotEnglish,12,5,0.2,49
+680,Núna,Bo Halldórsson,NotEnglish,15,7,0.30434782608695654,31
+681,Sjúbídú,Anna Mjöll,NotEnglish,13,19,0.8260869565217391,51
+682,Minn hinsti dans,Paul Oscar,NotEnglish,20,25,0.9615384615384616,18
+683,All Out of Luck,Selma,English,2,13,0.5652173913043478,146
+684,Tell Me!,August & Telma,English,12,12,0.46153846153846156,45
+685,Angel,Two Tricky,English,22,2,0.08333333333333333,3
+686,Algo pequeñito,Daniel Diges,NotEnglish,15,2,0.08,68
+687,Heaven,Jónsi,English,19,17,0.7083333333333334,16
+688,If I Had Your Love,Selma (2),English,0,0,0,0
+689,This Is My Life,Anna Bergendahl,English,0,0,0,0
+690,Valentine Lost,Eiríkur Hauksson,English,0,0,0,0
+691,This Is My Life,Euroband,English,14,11,0.44,64
+692,Is It True?,Yohanna,English,2,7,0.28,218
+693,Il pleut de l'or,Michael von der Heide,NotEnglish,0,0,0,0
+694,We Could Be the Same,maNga,English,2,14,0.56,170
+695,Sweet People,Alyosha,English,10,17,0.68,108
+696,Ég á líf,Eythor Ingi,NotEnglish,17,19,0.7307692307692307,47
+697,That Sounds Good to Me,Josh Dubovie,English,25,12,0.48,10
+698,Feel the Passion (Kënga ime),Aurela Gaçe,Mixed,0,0,0,0
+699,Hear Them Calling,Greta Salóme (2),English,0,0,0,0
+700,Paper,Svala,English,0,0,0,0
+701,Our Choice,Ari Ólafsson,English,0,0,0,0
+702,Hatrið mun sigra,Hatari,NotEnglish,10,17,0.6538461538461539,232
+703,Think About Things,Daði og Gagnamagnið,English,0,0,0,0
+704,10 Years,Daði og Gagnamagnið,English,4,12,0.4444444444444444,378
+705,Walking the Streets in the Rain,Butch Moore,English,6,4,0.16666666666666666,11
+706,Come Back to Stay,Dickie Rock,English,4,17,0.6538461538461539,14
+707,If I Could Choose,Sean Dunphy,English,2,17,0.8095238095238095,22
+708,Chance of a Lifetime,Pat McGuigan,English,4,14,0.7368421052631579,18
+709,The Wages of Love,Muriel Day feat. The Lindsays,English,7,5,0.2631578947368421,10
+710,All Kinds of Everything,Dana,English,1,12,0.6,32
+711,One Day Love,Angela Farrell,English,11,13,0.5652173913043478,79
+712,Ceol an ghrá,Sandie Jones,NotEnglish,15,3,0.13636363636363635,72
+713,Do I Dream,Maxi,English,10,14,0.56,80
+714,Cross Your Heart,Tina Reynolds,English,7,13,0.5652173913043478,11
+715,That's What Friends Are For,The Swarbriggs,English,9,2,0.10526315789473684,68
+716,When,Red Hurley,English,10,7,0.3181818181818182,54
+717,It's Nice to Be in Love Again,The Swarbriggs (2) Plus Two,English,3,1,0.04,119
+718,Born to Sing,Colm C. T. Wilkinson,English,5,1,0.05,86
+719,Happy Man,Cathal Dunne,English,5,4,0.17391304347826086,80
+720,What's Another Year,Johnny Logan,English,1,17,0.68,143
+721,Horoscopes,Sheeba,English,5,12,0.5217391304347826,105
+722,"Here Today, Gone Tomorrow",The Duskeys,English,11,17,0.9444444444444444,49
+723,Terminal 3,Linda Martin,English,2,9,0.375,137
+724,Wait Until the Weekend Comes,Maria Christian,English,6,1,0.05263157894736842,91
+725,You Can Count on Me,Luv Bug,English,4,12,0.48,96
+726,Hold Me Now,Johnny Logan (2),English,1,20,0.7692307692307693,172
+727,Take Him Home,Jump the Gun,English,8,10,0.4,79
+728,The Real Me,Kiev Connolly & The Missing Passengers,English,18,3,0.13636363636363635,21
+729,Somewhere in Europe,Liam Reilly,English,2,17,0.68,132
+730,Could It Be That I'm in Love,Kim Jackson,English,10,11,0.5,47
+731,Why Me?,Linda Martin (2),English,1,17,0.68,155
+732,In Your Eyes,Niamh Kavanagh,English,1,14,0.56,187
+733,Rock 'n' Roll Kids,Paul Harrington & Charlie McGettigan,English,1,3,0.12,226
+734,Dreamin',Eddie Friel,English,14,2,0.08695652173913043,44
+735,The Voice,Eimear Quinn,English,1,17,0.7391304347826086,162
+736,Mysterious Woman,Marc Roberts,English,2,5,0.19230769230769232,157
+737,Is Always Over Now?,Dawn Martin,English,9,13,0.52,64
+738,When You Need Me,The Mullans,English,17,17,0.7391304347826086,18
+739,Millennium of Love,Eamonn Toal,English,6,23,0.8846153846153846,92
+740,Without Your Love,Gary O'Shaughnessy,English,21,12,0.5,6
+741,Boom Boom,Emmy,English,0,0,0,0
+742,If My World Stopped Turning,Chris Doran,English,22,18,0.75,7
+743,Love?,Donna & Joe,English,0,0,0,0
+744,The Secret Is Love,Nadine Beiler,English,18,18,0.72,64
+745,They Can't Stop the Spring,Dervish,English,24,4,0.16666666666666666,5
+746,Irelande douze pointe,Dustin the Turkey,Mixed,0,0,0,0
+747,Et Cetera,Sinéad Mulvey & Black Daisy,English,0,0,0,0
+748,Running Scared,Ell/Nikki,English,1,19,0.76,221
+749,I Love Belarus,Anastasia Vinnikova,English,0,0,0,0
+750,With Love Baby,Witloof Bay,English,0,0,0,0
+751,Only Love Survives,Ryan Dolan,English,26,26,1,5
+752,Love in Rewind,Dino Merlin (2),Mixed,6,2,0.08,125
+753,Na inat (На инат),Poli Genova,NotEnglish,0,0,0,0
+754,Sunlight,Nicky Byrne,English,0,0,0,0
+755,Dying to Try,Brendan Murray,English,0,0,0,0
+756,Together,Ryan O'Shaughnessy,English,16,24,0.9230769230769231,136
+757,22,Sarah McTernan,English,0,0,0,0
+758,Story Of My Life,Lesley Roy,English,0,0,0,0
+759,MAPS,Lesley Roy,English,0,0,0,0
+760,Ey sham (אי שם),Ilanit,NotEnglish,4,17,0.68,97
+761,Natati la khayay (נתתי לה חיי),Poogy,NotEnglish,7,6,0.2608695652173913,11
+762,At ve'ani (את ואני),Shlomo Artzi,NotEnglish,11,12,0.631578947368421,40
+763,Emor shalom (אמור שלום),"Chocolate, Menta, Mastik",NotEnglish,6,4,0.18181818181818182,77
+764,Ahava hi shir lishnayim (אהבה היא שיר לשניים),Ilanit (2),NotEnglish,11,11,0.44,49
+765,A-ba-ni-bi (א-ב-ני-בי),Izhar Cohen & Alphabeta,NotEnglish,1,18,0.9,157
+766,Hallelujah (הללויה),Milk and Honey,NotEnglish,1,10,0.43478260869565216,125
+767,Halayla (הלילה),Hakol Over Habibi,NotEnglish,7,5,0.21739130434782608,56
+768,Hora (הורה),Avi Toledano,NotEnglish,2,15,0.8333333333333334,100
+769,Khay (חי),Ofra Haza,NotEnglish,2,16,0.7272727272727273,136
+770,"Olé, olé (עולה, עולה)",Izhar Cohen (2),NotEnglish,5,11,0.5789473684210527,93
+771,Yavo yom (יבוא יום),Moti Giladi & Sarai Tzuriel,NotEnglish,19,11,0.44,7
+772,Shir habatlanim (שיר הבטלנים),Lazy Bums,NotEnglish,8,2,0.07692307692307693,73
+773,Ben adam (בן אדם),Yardena Arazi,NotEnglish,7,8,0.32,85
+774,Derekh hamelekh (דרך המלך),Gili & Galit,NotEnglish,12,2,0.09090909090909091,50
+775,Shara barkhovot (שרה ברחובות),Rita,NotEnglish,18,10,0.4,16
+776,Kan (כאן),Duo Datz,NotEnglish,3,15,0.6818181818181818,139
+777,Ze rak sport (זה רק ספורט),Dafna Dekel,NotEnglish,6,3,0.12,85
+778,Celebrate,Daria,English,0,0,0,0
+779,San aggelos s'agapisa (Σαν άγγελος σ'αγάπησα),Christos Mylordos,NotEnglish,0,0,0,0
+780,Diva (דיווה),Dana International,NotEnglish,1,8,0.32,172
+781,Happy Birthday (Yom huledet) (יום הולדת),Eden,Mixed,5,19,0.8260869565217391,93
+782,Sameakh (שמח),PingPong,Mixed,22,1,0.038461538461538464,7
+783,En davar (אין דבר),Tal Sondak,NotEnglish,16,5,0.20833333333333334,25
+784,Light a Candle (Nadlik beyakhad ner) (נדליק ביחד נר),Sarit Hadad,Mixed,12,10,0.4,37
+785,New Tomorrow,A Friend in London,English,5,3,0.12,134
+786,To Believe (Leha'amin) (להאמין),David D'Or,Mixed,0,0,0,0
+787,Hasheket shenish'ar (השקט שנשאר),Shiri Maimon,Mixed,4,11,0.4583333333333333,154
+788,Rockefeller Street,Getter Jaani,English,24,8,0.32,44
+789,Push the Button,Teapacks,Mixed,0,0,0,0
+790,The Fire in Your Eyes (Ke'ilu kan) (כאילו כאן),Boaz,Mixed,9,7,0.28,124
+791,There Must Be Another Way (Einaikh) (עינייך),Noa & Mira Awad,Mixed,16,2,0.08,53
+792,Da Da Dam,Paradise Oskar,English,21,1,0.04,57
+793,Sognu,Amaury Vassili,NotEnglish,15,11,0.44,82
+794,Taken by a Stranger,Lena (2),English,10,16,0.64,107
+795,Rak bishvilo (רק בשבילו),Moran Mazor,NotEnglish,0,0,0,0
+796,Watch My Dance,Loucas Yiorkas feat. Stereo Mike,Mixed,7,9,0.36,120
+797,"What About My Dreams? (Szerelem, miért múlsz?)",Kati Wolf,Mixed,22,5,0.2,53
+798,Made of Stars,Hovi Star,English,14,7,0.2692307692307692,135
+799,I Feel Alive,Imri,English,23,1,0.038461538461538464,39
+800,Toy,Netta,Mixed,1,22,0.8461538461538461,529
+801,Home,Kobi Marimi,English,23,14,0.5384615384615384,35
+802,Feker Libi,Eden Alene,Mixed,0,0,0,0
+803,Set Me Free,Eden Alene,Mixed,17,3,0.1111111111111111,93
+804,Al di là,Betty Curtis,NotEnglish,5,16,0.8421052631578947,12
+805,"Addio, addio",Claudio Villa,NotEnglish,9,15,0.6521739130434783,3
+806,Uno per tutte,Emilio Pericoli,NotEnglish,3,6,0.23076923076923078,37
+807,Non ho l'età,Gigliola Ciuetti,NotEnglish,1,12,0.6,49
+808,"Se piangi, se ridi",Bobby Solo,NotEnglish,5,13,0.5416666666666666,15
+809,"Dio, come ti amo",Domenico Modugno (3),NotEnglish,17,14,0.5384615384615384,0
+810,Non andare più lontano,Claudio Villa (2),NotEnglish,11,16,0.7619047619047619,4
+811,Marianne,Sergio Endrigo,NotEnglish,10,11,0.5789473684210527,7
+812,Due grosse lacrime bianche,Iva Zanicchi,NotEnglish,13,6,0.3157894736842105,5
+813,Occhi di ragazza,Gianni Morandi,NotEnglish,8,3,0.15,5
+814,L'amore è un attimo,Massimo Ranieri,NotEnglish,5,11,0.4782608695652174,91
+815,I giorni dell'arcobaleno,Nicola di Bari,NotEnglish,6,12,0.5454545454545454,92
+816,Chi sarà con te,Massimo Ranieri (2),NotEnglish,13,10,0.4,74
+817,Sì,Gigliola Ciuetti (2),NotEnglish,2,17,0.7391304347826086,18
+818,Coming Home,Sjonni's Friends,English,20,21,0.84,61
+819,We'll Live It All Again (Io rivivrei),Al Bano & Romina Power,Mixed,7,13,0.5909090909090909,69
+820,Libera,Mia Martini,NotEnglish,13,15,0.6,33
+821,Questo amore,Ricchi e Poveri,NotEnglish,12,3,0.15,53
+822,Raggio di luna,Matia Bazar,NotEnglish,15,2,0.08695652173913043,27
+823,Non so che darei,Alan Sorrenti,NotEnglish,6,6,0.24,87
+824,Per Lucia,Riccardo Fogli,NotEnglish,11,5,0.22727272727272727,41
+825,I treni di Tozeur,Alice & Franco Battiato,Mixed,5,18,0.75,70
+826,Magic Oh Magic,Al Bano & Romina Power (2),NotEnglish,7,12,0.631578947368421,78
+827,Gente di mare,Umberto Tozzi & Raf,NotEnglish,3,7,0.2692307692307692,103
+828,Vivo (Ti scrivo),Luca Barbarossa,NotEnglish,12,18,0.72,52
+829,Avrei voluto,Anna Oxa & Fausto Leali,NotEnglish,9,1,0.045454545454545456,56
+830,Insieme: 1992,Toto Cutugno,Mixed,1,19,0.76,149
+831,Lipstick,Jedward,English,8,6,0.24,119
+832,Rapsodia,Mia Martini (2),NotEnglish,4,19,0.76,111
+833,Sole d'Europa,Enrico Ruggeri,NotEnglish,12,1,0.04,45
+834,Fiumi di parole,Jalisse,NotEnglish,4,9,0.34615384615384615,114
+835,Ding Dong (דינג דונג),Dana International (2),Mixed,0,0,0,0
+836,Madness of Love (Follia d'amore),Raphael Gualazzi,NotEnglish,2,12,0.48,189
+837,L'essenziale,Marco Mengoni,NotEnglish,7,23,0.8846153846153846,126
+838,Angel in Disguise,Musiqq,English,0,0,0,0
+839,C'est ma vie,Evelina Sašenko,Mixed,19,4,0.16,63
+840,No Degree of Separation (Nessun grado di separazione),Francesca Michielin,NotEnglish,16,6,0.23076923076923078,124
+841,Occidentali's Karma,Francesco Gabbani,Mixed,6,9,0.34615384615384615,334
+842,Non mi avete fatto niente,Ermal Meta & Fabrizio Moro,NotEnglish,5,26,1,308
+843,Soldi,Mahmood,Mixed,2,22,0.8461538461538461,472
+844,Fai Rumore,Diodato,NotEnglish,0,0,0,0
+845,Zitti E Buoni,Måneskin,NotEnglish,1,24,0.8888888888888888,524
+846,My Star,Brainstorm,English,3,21,0.8076923076923077,136
+847,Too Much,Arnis Mednis,English,18,9,0.375,16
+848,I Wanna,Marie N,English,1,23,0.92,176
+849,Rusinka (Русинкa),Vlatko Ilievski,Mixed,0,0,0,0
+850,Dziesma par laimi,Fomins & Kleins,NotEnglish,0,0,0,0
+851,The War Is Not Over,Walters & Kazha,Mixed,5,23,0.9583333333333334,153
+852,One Life,Glen Vella,English,0,0,0,0
+853,Questa notte,Bonaparti.lv,NotEnglish,16,14,0.5833333333333334,54
+854,Wolves of the Sea,Pirates of the Sea,English,11,14,0.56,83
+855,Probka (Пробка),Intars Busulis,NotEnglish,0,0,0,0
+856,So Lucky,Zdob și Zdub (2),English,12,15,0.6,97
+857,Never Alone,3JS,English,0,0,0,0
+858,Haba Haba,Stella Mwangi,Mixed,0,0,0,0
+859,Here We Go,PeR,English,0,0,0,0
+860,Jestem,Magdalena Tul,NotEnglish,0,0,0,0
+861,A luta é alegria,Homens da Luta,NotEnglish,0,0,0,0
+862,Heartbeat,Justs,English,15,20,0.7692307692307693,132
+863,Line,Triana Park,English,0,0,0,0
+864,Funny Girl,Laura Rizzotto,English,0,0,0,0
+865,That Night,Carousel,English,0,0,0,0
+866,Still Breathing,Samanta Tina,English,0,0,0,0
+867,The Moon Is Rising,Samanta Tīna,English,0,0,0,0
+868,Lopšinė mylimai,Ovidijus Vyšniauskas,NotEnglish,25,16,0.64,0
+869,Strazdas,Aistė,NotEnglish,20,1,0.043478260869565216,13
+870,You Got Style,Skamp,Mixed,13,8,0.3333333333333333,35
+871,Happy You,Aivaras,English,23,24,0.96,12
+872,What's Happened to Your Love?,Linas & Simona,English,0,0,0,0
+873,Little by Little,Laura & The Lovers,English,0,0,0,0
+874,Change,Hotel FM,English,17,17,0.68,77
+875,Love or Leave,4Fun,English,21,9,0.375,28
+876,Nomads in the Night,Jeronimas Milius,English,0,0,0,0
+877,Love,Sasha Son,Mixed,23,1,0.04,23
+878,Get You,Alexej Vorobjov,Mixed,16,10,0.4,77
+879,Stand By,Senit,English,0,0,0,0
+880,One More Day,Eldrine,English,9,25,1,110
+881,Something,Andrius Pojavis,English,22,2,0.07692307692307693,17
+882,I'm Still Alive,TWiiNS,English,0,0,0,0
+883,Čaroban (Чаробан),Nina Radojčić,NotEnglish,14,24,0.96,85
+884,I've Been Waiting for This Night,Donny Montell (2),English,9,16,0.6153846153846154,200
+885,Rain of Revolution,Fusedmarc,English,0,0,0,0
+886,When We're Old (Kol myliu),Ieva Zasimauskaitė,Mixed,12,4,0.15384615384615385,181
+887,Run with the Lions,Jurij Veklenko,English,0,0,0,0
+888,On Fire,The Roop,English,0,0,0,0
+889,Discoteque,The Roop,English,8,18,0.6666666666666666,220
+890,Nous les amoureux,Jean-Claude Pascal,NotEnglish,1,14,0.7368421052631579,31
+891,Petit bonhomme,Camillo Felgen (2),NotEnglish,3,14,0.6086956521739131,11
+892,À force de prier,Nana Mouskouri,NotEnglish,8,16,0.6153846153846154,13
+893,Dès que le printemps revient,Hugues Aufray,NotEnglish,4,1,0.05,14
+894,"Poupée de cire, poupée de son",France Gall,NotEnglish,1,15,0.625,32
+895,Ce soir je t'attendais,Michèle Torr,NotEnglish,10,4,0.15384615384615385,7
+896,L'amour est bleu,Vicky Leandros,NotEnglish,4,2,0.09523809523809523,17
+897,Nous vivrons d'amour,Chris Baldo & Sophie Garel,NotEnglish,11,5,0.2631578947368421,5
+898,Catherine,Romuald (2),NotEnglish,11,2,0.10526315789473684,7
+899,Je suis tombé du ciel,David Alexandre Winter,NotEnglish,12,8,0.4,0
+900,"Pomme, pomme, pomme",Monique Melsen,NotEnglish,13,8,0.34782608695652173,70
+901,Après toi,Vicky Leandros (2),NotEnglish,1,17,0.7727272727272727,128
+902,Tu te reconnaîtras,Anne-Marie David,NotEnglish,1,11,0.44,129
+903,Bye Bye I Love You,Ireen Sheer,Mixed,4,9,0.391304347826087,14
+904,Toi,Geraldine,NotEnglish,5,5,0.2631578947368421,84
+905,Chansons pour ceux qui s'aiment,Jürgen Marcus,NotEnglish,14,5,0.22727272727272727,17
+906,Frère Jacques,Anne-Marie B,NotEnglish,16,7,0.28,17
+907,Parlez-vous français?,Baccara,NotEnglish,7,17,0.85,73
+908,J'ai déjà vu ça dans tes yeux,Jeane Manson,NotEnglish,13,13,0.5652173913043478,44
+909,Papa pingouin,Sophie & Magaly,NotEnglish,9,4,0.16,56
+910,C'est peut-être pas l'Amérique,Jean-Claude Pascal (2),NotEnglish,11,4,0.17391304347826086,41
+911,Cours après le temps,Svetlana,NotEnglish,6,2,0.1111111111111111,78
+912,Si la vie est cadeau,Corinne Hermès,NotEnglish,1,20,0.9090909090909091,142
+913,100% d'amour,Sophie Carle,NotEnglish,10,2,0.08333333333333333,39
+914,"Children, Kinder, enfants","Margo, Franck Olivier, Chris Roberts, Malcolm Roberts, Ireen Sheer (3) & Diane Solomon",Mixed,13,18,0.9473684210526315,37
+915,L'amour de ma vie,Sherisse Laurence,NotEnglish,3,1,0.04,117
+916,"Amour, amour",Plastic Bertrand,NotEnglish,21,13,0.5,4
+917,Croire,Lara Fabian,NotEnglish,4,17,0.68,90
+918,Monsieur,Park Café,NotEnglish,20,11,0.5,8
+919,Quand je te rêve,Céline Carzo,NotEnglish,13,6,0.24,38
+920,Un baiser volé,Sarah Bray,NotEnglish,14,7,0.3181818181818182,29
+921,Sou fräi,Marion Welter & Kontinent,NotEnglish,21,14,0.56,10
+922,Donne-moi une chance,Modern Times,Mixed,20,15,0.6,11
+923,No One,Maja Keuc,English,13,20,0.8,96
+924,100% te ljubam (100% те љубам),XXL,Mixed,15,19,0.7307692307692307,29
+925,Od nas zavisi (Од нас зависи),Karolina,NotEnglish,19,9,0.36,25
+926,Life,Toše Proeski,English,14,15,0.625,47
+927,Make My Day,Martin Vučić,English,17,15,0.625,52
+928,Que me quiten lo bailao,Lucía Pérez,NotEnglish,23,22,0.88,50
+929,Mojot svet (Мојот свет),Karolina (2),Mixed,14,6,0.25,73
+930,Let Me Love You,"Tamara, Vrčak & Adrijan",English,0,0,0,0
+931,Nešto što kje ostane (Нешто што ќе остане),Next Time,NotEnglish,0,0,0,0
+932,Popular,Eric Saade,English,3,7,0.28,185
+933,In Love for a While,Anna Rossinelli,English,25,13,0.52,19
+934,Live It Up,Yüksek Sadakat,English,0,0,0,0
+935,Pred da se razdeni (Пред да се раздени),Esma & Lozano,Mixed,0,0,0,0
+936,Angel,Mika Newton,English,4,23,0.92,159
+937,I Can,Blue,English,11,14,0.56,100
+938,Dona (Дона),Kaliopi (2),NotEnglish,0,0,0,0
+939,Dance Alone,Jana Burčeska,English,0,0,0,0
+940,Lost and Found,Eye Cue,English,0,0,0,0
+941,Marija l-Maltija,Joe Grech,NotEnglish,18,2,0.08695652173913043,52
+942,L-imħabba,Helen & Joseph,Mixed,18,9,0.4090909090909091,48
+943,Singing This Song,Renato,English,12,10,0.5263157894736842,32
+944,Could It Be,Georgina & Paul Giordimaina,English,6,3,0.13636363636363635,106
+945,Little Child,Mary Spiteri,English,3,10,0.4,123
+946,This Time,William Mangion,English,8,8,0.32,69
+947,More Than Love,Chris & Moira,English,5,12,0.48,97
+948,Suus,Rona Nishliu,NotEnglish,5,3,0.11538461538461539,146
+949,In a Woman's Heart,Miriam Christine,English,10,6,0.2608695652173913,68
+950,Let Me Fly,Debbie Scerri,English,9,18,0.6923076923076923,66
+951,The One That I Love,Chiara,English,3,10,0.4,165
+952,Believe 'n Peace,Times Three,English,15,20,0.8695652173913043,32
+953,Desire,Claudette Pace,Mixed,8,7,0.2692307692307692,73
+954,Another Summer Night,Fabrizio Faniello,English,9,21,0.875,48
+955,7th Wonder,Ira Losco,English,2,20,0.8,164
+956,Woki mit deim Popo,Trackshittaz,NotEnglish,0,0,0,0
+957,On Again... Off Again,Julie & Ludwig,English,12,6,0.25,50
+958,Angel,Chiara (2),English,2,3,0.125,192
+959,When the Music Dies,Sabina Babayeva,English,4,13,0.5,150
+960,Vertigo,Olivia Lewis,English,0,0,0,0
+961,Vodka,Morena,Mixed,0,0,0,0
+962,What If We,Chiara (3),English,22,14,0.56,31
+963,We Are the Heroes,Litesound,English,0,0,0,0
+964,Would You?,Iris,English,0,0,0,0
+965,Korake ti znam,Maya Sar,NotEnglish,18,5,0.19230769230769232,55
+966,Tomorrow,Gianluca,English,8,9,0.34615384615384615,120
+967,Love Unlimited,Sofi Marinova,Mixed,0,0,0,0
+968,Nebo,Nina Badrić,NotEnglish,0,0,0,0
+969,Walk on Water,Ira Losco (2),English,12,22,0.8461538461538461,153
+970,Breathlessly,Claudia Faniello,English,0,0,0,0
+971,Taboo,Christabelle,English,0,0,0,0
+972,Chameleon,Michela,English,14,1,0.038461538461538464,107
+973,All Of My Love,Destiny,English,0,0,0,0
+974,Je Me Casse,Destiny,Mixed,7,6,0.2222222222222222,255
+975,Boonika bate doba,Zdob și Zdub,Mixed,6,7,0.2916666666666667,148
+976,La La Love,Ivi Adamou,English,16,8,0.3076923076923077,65
+977,Fight,Natalia Barbu,English,10,24,1,109
+978,A Century of Love,Geta Burlacu,English,0,0,0,0
+979,Hora din Moldova,Nelly Ciobanu,Mixed,14,13,0.52,69
+980,Should've Known Better,Soluna Samay,Mixed,23,15,0.5769230769230769,21
+981,Kuula,Ott Lepland,NotEnglish,6,11,0.4230769230769231,120
+982,När jag blundar,Pernilla,NotEnglish,0,0,0,0
+983,O mie,Aliona Moon,NotEnglish,11,3,0.11538461538461539,71
+984,Echo (You and I),Anggun,Mixed,22,9,0.34615384615384615,21
+985,I'm a Joker,Anri Jokhadze,Mixed,0,0,0,0
+986,Falling Stars,Lidia Isac,English,0,0,0,0
+987,Hey Mamma,SunStroke Project (2),English,3,7,0.2692307692307692,374
+988,My Lucky Day,DoReDoS,English,10,19,0.7307692307692307,209
+989,Stay,Anna Odobescu,English,0,0,0,0
+990,Prison,Natalia Gordienko,English,0,0,0,0
+991,SUGAR,Natalia Gordienko,English,13,14,0.5185185185185185,115
+992,"Allons, allons les enfants",Colette Deréal,NotEnglish,10,2,0.10526315789473684,6
+993,Dis rien,François Deguelt (2),NotEnglish,2,16,0.6956521739130435,13
+994,L'amour s'en va,Françoise Hardy,NotEnglish,5,15,0.5769230769230769,25
+995,Où sont-elles passées,Romuald,NotEnglish,3,10,0.5,15
+996,Va dire à l'amour,Marjorie Noël,NotEnglish,9,9,0.375,7
+997,Bien plus fort,Tereza Kesovija,NotEnglish,17,13,0.5,0
+998,Boum-badaboum,Minouche Barelli,NotEnglish,5,14,0.6666666666666666,10
+999,À chacun sa chanson,Line & Willy,NotEnglish,7,7,0.3684210526315789,8
+1000,"Maman, Maman",Jean Jacques,NotEnglish,6,4,0.21052631578947367,11
+1001,Marlène,Dominique Dussault,Mixed,8,10,0.5,5
+1002,"Un banc, un arbre, une rue",Séverine,NotEnglish,1,3,0.13043478260869565,128
+1003,Comme on s'aime,Anne-Marie Godart & Peter McLane,NotEnglish,16,15,0.6818181818181818,65
+1004,Un train qui part,Marie,NotEnglish,8,6,0.24,85
+1005,Celui qui reste et celui qui s'en va,Romuald (3),NotEnglish,4,10,0.43478260869565216,14
+1006,Une chanson c'est une lettre,Sophie,NotEnglish,13,14,0.7368421052631579,22
+1007,"Toi, la musique et moi",Mary Christy,NotEnglish,3,16,0.7272727272727273,93
+1008,Une petite française,Michèle Torr (2),NotEnglish,4,2,0.08,96
+1009,Les jardins de Monaco,Caline & Olivier Toussaint,NotEnglish,4,14,0.7,107
+1010,Notre vie c'est la musique,Laurent Vaguener,NotEnglish,16,6,0.2608695652173913,12
+1011,Notre planète,Maryon,NotEnglish,0,0,0,0
+1012,Tout de moi,Lise Darly,NotEnglish,0,0,0,0
+1013,Standing Still,Roman Lob,English,8,20,0.7692307692307693,110
+1014,"'Ajde, kroči ('Ајде, крочи)",Stevan Faddy,NotEnglish,0,0,0,0
+1015,Zauvijek volim te (Заувијек волим те),Stefan Filipović,NotEnglish,0,0,0,0
+1016,Just Get Out of My Life,Andrea Demirović,English,0,0,0,0
+1017,Aphrodisiac,Eleftheria Eleftheriou,English,17,16,0.6153846153846154,64
+1018,Igranka (Игранка),Who See,NotEnglish,0,0,0,0
+1019,Sound of Our Hearts,Compact Disco,English,24,2,0.07692307692307693,19
+1020,Never Forget,Greta Salóme & Jónsi (2),English,20,7,0.2692307692307692,46
+1021,The Real Thing,Highway,English,0,0,0,0
+1022,Space,Slavko Kalezić,English,0,0,0,0
+1023,Inje (Иње),Vanja Radovanović,NotEnglish,0,0,0,0
+1024,Heaven,D mol,English,0,0,0,0
+1025,Bitaqat hub (بطاقة حب),Samira Said,NotEnglish,18,5,0.2,7
+1026,Wat een dag,Greetje Kauffeld,NotEnglish,10,6,0.3157894736842105,6
+1027,Katinka,De Spelbrekers,NotEnglish,13,8,0.34782608695652173,0
+1028,Een speeldoos,Annie Palmen,NotEnglish,13,2,0.07692307692307693,0
+1029,Jij bent mijn leven,Anneke Grönloh,NotEnglish,10,2,0.1,2
+1030,'t Is genoeg,Conny van den Bos,NotEnglish,11,1,0.041666666666666664,5
+1031,Fernando en Filippo,Milly Scott,NotEnglish,15,16,0.6153846153846154,2
+1032,Ring-dinge-ding,Thérèse Steinmetz,NotEnglish,14,1,0.047619047619047616,2
+1033,Morgen,Ronnie Tober,NotEnglish,16,2,0.10526315789473684,1
+1034,De troubadour,Lenny Kuhr,NotEnglish,1,8,0.42105263157894735,18
+1035,Waterman,Hearts of Soul,NotEnglish,7,1,0.05,7
+1036,Tijd,Saskia & Serge,NotEnglish,6,14,0.6086956521739131,85
+1037,Als het om de liefde gaat,Sandra & Andres,NotEnglish,4,18,0.8181818181818182,106
+1038,De oude muzikant,Ben Cramer,NotEnglish,14,13,0.52,69
+1039,I See a Star,Mouth & MacNeal,English,3,12,0.5217391304347826,15
+1040,Ding-a-Dong,Teach-In,English,1,1,0.05263157894736842,152
+1041,The Party's Over,Sandra Reemer (2),English,9,8,0.36363636363636365,56
+1042,De mallemolen,Heddy Lester,NotEnglish,12,3,0.12,35
+1043,'t Is OK,Harmony,NotEnglish,13,11,0.55,37
+1044,Colorado,Xandra (Sandra Reemer) (3),NotEnglish,12,14,0.6086956521739131,51
+1045,Amsterdam,Maggie MacNeal (2),NotEnglish,5,15,0.6,93
+1046,Het is een wonder,Linda Williams,NotEnglish,9,11,0.4782608695652174,51
+1047,Jij en ik,Bill van Dijk,NotEnglish,16,16,0.8888888888888888,8
+1048,Sing Me a Song,Bernadette,NotEnglish,7,11,0.5,66
+1049,Ik hou van jou,Maribelle,NotEnglish,13,11,0.4583333333333333,34
+1050,Alles heeft ritme,Frizzle Sizzle,NotEnglish,13,7,0.28,40
+1051,Rechtop in de wind,Marcha,NotEnglish,5,12,0.46153846153846156,83
+1052,Shangri-La,Gerard Joling,NotEnglish,9,7,0.28,70
+1053,Blijf zoals je bent,Justine Pelmelay,NotEnglish,15,4,0.18181818181818182,45
+1054,Ik wil alles met je delen,Maywood,NotEnglish,15,5,0.2,25
+1055,Wijs me de weg,Humphrey Campbell,NotEnglish,9,23,0.92,67
+1056,Vrede,Ruth Jacott,NotEnglish,6,20,0.8,92
+1057,Waar is de zon,Willeke Alberti,NotEnglish,23,13,0.52,4
+1058,De eerste keer,Maxine & Franklin Brown,NotEnglish,7,15,0.6521739130434783,78
+1059,Niemand heeft nog tijd,Mrs. Einstein,NotEnglish,22,8,0.3076923076923077,5
+1060,Hemel en aarde,Edsilia Rombley,NotEnglish,4,18,0.72,151
+1061,One Good Reason,Marlayne,English,8,11,0.4782608695652174,71
+1062,No Goodbyes,Linda Wagenmakers,English,13,2,0.07692307692307693,40
+1063,Out On My Own,Michelle Courtens,English,18,1,0.041666666666666664,16
+1064,Waterline,Jedward (2),English,19,23,0.8846153846153846,46
+1065,Without You,Re-Union,English,20,7,0.2916666666666667,11
+1066,My Impossible Dream,Glennis Grace,English,0,0,0,0
+1067,Time,Izabo,Mixed,0,0,0,0
+1068,On Top of the World,Edsilia Rombley (2),English,0,0,0,0
+1069,Your Heart Belongs to Me,Hind,English,0,0,0,0
+1070,Shine,The Toppers,English,0,0,0,0
+1071,L'amore è femmina (Out of Love),Nina Zilli,Mixed,9,10,0.38461538461538464,101
+1072,Beautiful Song,Anmary,English,0,0,0,0
+1073,Love Is Blind,Donny Montell,English,14,4,0.15384615384615385,70
+1074,Birds,Anouk,English,9,13,0.5,114
+1075,Crno i belo (Црно и бело),Kaliopi,NotEnglish,13,22,0.8461538461538461,71
+1076,This Is the Night,Kurt Calleja,English,21,21,0.8076923076923077,41
+1077,Slow Down,Douwe Bob,English,11,3,0.11538461538461539,153
+1078,Lights and Shadows,O'G3NE,English,11,6,0.23076923076923078,150
+1079,Outlaw in 'Em,Waylon,English,18,23,0.8846153846153846,121
+1080,Arcade,Duncan Laurence,English,1,12,0.46153846153846156,498
+1081,Grow,Jeangu Macrooy,English,0,0,0,0
+1082,Birth Of A New Age,Jeangu Macrooy,Mixed,23,23,0.8518518518518519,11
+1083,Proud,Tamara Todevska (2),English,7,8,0.3076923076923077,305
+1084,YOU,Vasil,English,0,0,0,0
+1085,Here I Stand,Vasil,English,0,0,0,0
+1086,Sommer i Palma,Nora Brockstedt (2),NotEnglish,7,12,0.631578947368421,10
+1087,"Kom sol, kom regn",Inger Jacobsen,NotEnglish,10,10,0.43478260869565216,2
+1088,Solhverv,Anita Thallaug,NotEnglish,13,5,0.19230769230769232,0
+1089,Spiral,Arne Bendiksen,NotEnglish,8,3,0.15,6
+1090,Karusell,Kirsti Sparboe,NotEnglish,13,7,0.2916666666666667,1
+1091,Intet er nytt under solen,Åse Kleveland,NotEnglish,3,6,0.23076923076923078,15
+1092,Dukkemann,Kirsti Sparboe (2),NotEnglish,14,13,0.6190476190476191,2
+1093,Stress,Odd Børre,NotEnglish,13,13,0.6842105263157895,2
+1094,"Oj, oj, oj, så glad jeg skal bli",Kirsti Sparboe (3),NotEnglish,16,12,0.631578947368421,1
+1095,Lykken er...,Hanne Krogh,NotEnglish,17,18,0.782608695652174,65
+1096,Småting,Grethe Kausland & Benny Borg,NotEnglish,14,6,0.2727272727272727,73
+1097,It's Just a Game,Bendik Singers,Mixed,7,5,0.2,89
+1098,The First Day of Love,Anne-Karine Strøm feat. Bendik Singers (2),English,14,4,0.17391304347826086,3
+1099,Touch My Life (With Summer),Ellen Nikolaysen,English,18,6,0.3157894736842105,11
+1100,Mata Hari,Anne-Karine Strøm (2),English,18,9,0.4090909090909091,7
+1101,Casanova,Anita Skorgan,NotEnglish,14,5,0.2,18
+1102,Mil etter mil,Jahn Teigen,NotEnglish,20,2,0.1,0
+1103,Oliver,Anita Skorgan (2),NotEnglish,11,16,0.6956521739130435,57
+1104,Sámiid ædnan,Sverre Kjelsberg & Mattis Hætta,NotEnglish,16,11,0.44,15
+1105,Aldri i livet,Finn Kalvik,NotEnglish,20,13,0.5652173913043478,0
+1106,Adieu,Jahn Teigen (2) & Anita Skorgan (3),NotEnglish,12,3,0.16666666666666666,40
+1107,Do re mi,Jahn Teigen (3),NotEnglish,9,2,0.09090909090909091,53
+1108,Lenge leve livet,Dollie de Luxe,NotEnglish,17,5,0.20833333333333334,29
+1109,La det swinge,Bobbysocks!,NotEnglish,1,13,0.6842105263157895,123
+1110,Romeo,Ketil Stokkan,NotEnglish,12,4,0.16,44
+1111,Mitt liv,Kate Gulbrandsen,NotEnglish,9,1,0.038461538461538464,65
+1112,For vår jord,Karoline Krüger,NotEnglish,5,15,0.6,88
+1113,Venners nærhet,Britt Synnøve Johansen,NotEnglish,17,8,0.36363636363636365,30
+1114,Brandenburger Tor,Ketil Stokkan (2),NotEnglish,21,9,0.36,8
+1115,Mrs. Thompson,Just 4 Fun,NotEnglish,17,14,0.6363636363636364,14
+1116,Visjoner,Merethe Trøan,NotEnglish,18,21,0.84,23
+1117,Euro Neuro,Rambo Amadeus,Mixed,0,0,0,0
+1118,Duett,Elisabeth Andreassen & Jan Werner Danielsen,NotEnglish,6,17,0.68,76
+1119,Nocturne,Secret Garden,NotEnglish,1,5,0.21739130434782608,148
+1120,I evighet,Elisabeth Andreassen (2),NotEnglish,2,12,0.5217391304347826,114
+1121,San Francisco,Tor Endresen,Mixed,24,3,0.11538461538461539,0
+1122,Alltid sommer,Lars A. Fredriksen,NotEnglish,8,22,0.88,79
+1123,Living My Life Without You,Van Eijk,English,14,8,0.34782608695652173,35
+1124,My Heart Goes Boom,Charmed,English,11,8,0.3076923076923077,57
+1125,On My Own,Haldor Lægreid,English,22,4,0.16666666666666666,3
+1126,You and Me,Joan Franka,English,0,0,0,0
+1127,High,Knut Anders Sørum,English,24,3,0.125,3
+1128,In My Dreams,Wig Wam,English,9,5,0.20833333333333334,125
+1129,Stay,Tooji,English,26,12,0.46153846153846156,7
+1130,Ven a bailar conmigo,Guri Schanke,English,0,0,0,0
+1131,Hold on Be Strong,Maria Haukaas Storeng,English,5,25,1,182
+1132,Fairytale,Alexander Rybak,English,1,20,0.8,387
+1133,Vida minha,Filipa Sousa,NotEnglish,0,0,0,0
+1134,Zaleilah,Mandinga,Mixed,12,14,0.5384615384615384,71
+1135,Party for Everybody,Buranovskiye Babushki,Mixed,2,6,0.23076923076923078,259
+1136,I Feed You My Love,Margaret Berger,English,4,24,0.9230769230769231,191
+1137,The Social Network Song (Oh Oh – Uh – Oh Oh),Valentina Monetta,Mixed,0,0,0,0
+1138,Nije ljubav stvar (Није љубав ствар),Željko Joksimović (2),NotEnglish,3,24,0.9230769230769231,214
+1139,Icebreaker,Agnete,English,0,0,0,0
+1140,Grab the Moment,Jowst,English,10,17,0.6538461538461539,158
+1141,That's How You Write a Song,Alexander Rybak (2),English,15,7,0.2692307692307692,144
+1142,Spirit in the Sky,KEiiNO,Mixed,6,15,0.5769230769230769,331
+1143,Attention,Ulrikke,English,0,0,0,0
+1144,Fallen Angel,TIX,English,18,22,0.8148148148148148,75
+1145,To nie ja!,Edyta Górniak,NotEnglish,2,24,0.96,166
+1146,Sama,Justyna,NotEnglish,18,1,0.043478260869565216,15
+1147,Chcę znać swój grzech...,Kasia Kowalska,NotEnglish,15,20,0.8695652173913043,31
+1148,Ale jestem,Anna Maria Jopek,NotEnglish,11,12,0.46153846153846156,54
+1149,To takie proste,Sixteen,NotEnglish,17,7,0.28,19
+1150,Przytul mnie mocno,Mietek Szcześniak,NotEnglish,18,12,0.5217391304347826,17
+1151,2 Long,Piasek,English,20,18,0.75,11
+1152,Don't Close Your Eyes,Max Jason Mai,English,0,0,0,0
+1153,Love Song,Blue Café,Mixed,17,19,0.7916666666666666,27
+1154,Czarna dziewczyna,Ivan & Delfin,Mixed,0,0,0,0
+1155,Lăutar,Pasha Parfeny,English,11,26,1,81
+1156,Time to Party,The Jet Set,English,0,0,0,0
+1157,For Life,Isis Gee,English,23,10,0.4,14
+1158,I Don't Wanna Leave,Lidia Kopania,English,0,0,0,0
+1159,Verjamem,Eva Boto,NotEnglish,0,0,0,0
+1160,Quédate conmigo,Pastora Soler,NotEnglish,10,19,0.7307692307692307,97
+1161,Euphoria,Loreen,English,1,17,0.6538461538461539,372
+1162,Unbreakable,Sinplus,English,0,0,0,0
+1163,Color of Your Life,Michał Szpak,English,8,12,0.46153846153846156,229
+1164,Flashlight,Kasia Moś,English,22,2,0.07692307692307693,64
+1165,Light Me Up,Gromee feat. Lukas Meijer,English,0,0,0,0
+1166,Fire of Love (Pali się),Tulia,Mixed,0,0,0,0
+1167,Empires,Alicja,English,0,0,0,0
+1168,The Ride,RAFAŁ,English,0,0,0,0
+1169,Oração,António Calvário,NotEnglish,13,11,0.55,0
+1170,Sol de inverno,Simone de Oliveira,NotEnglish,13,12,0.5,1
+1171,Ele e ela,Madalena Iglésias,NotEnglish,13,8,0.3076923076923077,6
+1172,O vento mudou,Eduardo Nascimento,NotEnglish,12,5,0.23809523809523808,3
+1173,Verão,Carlos Mendes,NotEnglish,11,1,0.05263157894736842,5
+1174,Desfolhada portuguesa,Simone de Oliveira (2),NotEnglish,15,15,0.7894736842105263,4
+1175,Menina do alto da serra,Tonicha,NotEnglish,9,15,0.6521739130434783,83
+1176,A festa da vida,Carlos Mendes (2),NotEnglish,7,7,0.3181818181818182,90
+1177,Tourada,Fernando Tordo,NotEnglish,10,3,0.12,80
+1178,E depois do adeus,Paulo de Carvalho,NotEnglish,14,16,0.6956521739130435,3
+1179,Madrugada,Duarte Mendes,NotEnglish,16,16,0.8421052631578947,16
+1180,Uma flor de verde pinho,Carlos do Carmo,NotEnglish,12,15,0.6818181818181818,24
+1181,Portugal no coração,Os Amigos,NotEnglish,14,8,0.32,18
+1182,Dai li dou,Gemini,NotEnglish,17,5,0.25,5
+1183,"Sobe, sobe, balão sobe",Manuela Bravo,NotEnglish,9,1,0.043478260869565216,64
+1184,"Um grande, grande amor",José Cid,Mixed,7,14,0.56,71
+1185,Playback,Carlos Paião,NotEnglish,18,15,0.6521739130434783,9
+1186,Bem bom,Doce,NotEnglish,13,1,0.05555555555555555,32
+1187,Esta balada que te dou,Armando Gama,NotEnglish,13,17,0.7727272727272727,33
+1188,Silêncio e tanta gente,Maria Guinot,NotEnglish,11,19,0.7916666666666666,38
+1189,"Penso em ti, eu sei",Adelaide,NotEnglish,18,9,0.47368421052631576,9
+1190,Não sejas mau para mim,Dora,NotEnglish,14,20,0.8,28
+1191,Neste barco à vela,Nevada,NotEnglish,18,8,0.3076923076923077,15
+1192,Voltarei,Dora (2),NotEnglish,18,20,0.8,5
+1193,Conquistador,Da Vinci,NotEnglish,16,9,0.4090909090909091,39
+1194,Há sempre alguém,Nucha,NotEnglish,20,16,0.64,9
+1195,Lusitana paixão,Dulce Pontes,NotEnglish,8,12,0.5454545454545454,62
+1196,Amor d'água fresca,Dina,NotEnglish,17,8,0.32,26
+1197,A cidade (Até ser dia),Anabela,NotEnglish,10,11,0.44,60
+1198,Chamar a música,Sara Tavares,NotEnglish,8,8,0.32,73
+1199,Baunilha e chocolate,Tó Cruz,NotEnglish,21,16,0.6956521739130435,5
+1200,O meu coração não tem cor,Lúcia Moniz,NotEnglish,6,4,0.17391304347826086,92
+1201,Antes do adeus,Célia Lawson,NotEnglish,24,15,0.5769230769230769,0
+1202,Se eu te pudesse abraçar,Alma Lusa,NotEnglish,12,14,0.56,36
+1203,Como tudo começou,Rui Bandeira,NotEnglish,21,16,0.6956521739130435,12
+1204,Só sei ser feliz assim,MTM,NotEnglish,17,11,0.4583333333333333,18
+1205,Love Me Back,Can Bonomo,English,7,18,0.6923076923076923,112
+1206,Foi magia,Sofia Vitória,NotEnglish,0,0,0,0
+1207,Amar,2B,Mixed,0,0,0,0
+1208,Be My Guest,Gaitana,English,15,25,0.9615384615384616,65
+1209,Dança comigo (Vem ser feliz),Sabrina,Mixed,0,0,0,0
+1210,Senhora do mar (Negras águas),Vânia Fernandes,NotEnglish,13,13,0.52,69
+1211,Todas as ruas do amor,Flor-de-Lis,NotEnglish,15,6,0.24,57
+1212,Love Will Set You Free,Engelbert Humperdinck,English,25,1,0.038461538461538464,12
+1213,One Night's Anger,Hersi,English,0,0,0,0
+1214,Not Alone,Aram MP3,English,4,7,0.2692307692307692,174
+1215,Rise Like a Phoenix,Conchita Wurst,English,1,11,0.4230769230769231,290
+1216,Start a Fire,Dilara Kazimova,English,22,3,0.11538461538461539,33
+1217,Amar pelos dois,Salvador Sobral,NotEnglish,1,11,0.4230769230769231,758
+1218,O jardim,Cláudia Pascoal feat. Isaura,NotEnglish,26,8,0.3076923076923077,39
+1219,Telemóveis,Conan Osiris,NotEnglish,0,0,0,0
+1220,Medo De Sentir,Elisa,NotEnglish,0,0,0,0
+1221,Love Is On My Side,The Black Mamba,English,12,7,0.25925925925925924,153
+1222,Dincolo de nori,Dan Bittman,NotEnglish,21,11,0.44,14
+1223,Eu cred,Mălina Olinescu,NotEnglish,22,15,0.6,6
+1224,The Moon,Taxi,English,17,6,0.23076923076923078,25
+1225,Tell Me Why,Monica Anghel & Marcel Pavel,English,9,21,0.84,71
+1226,Cheesecake,Teo,English,16,2,0.07692307692307693,43
+1227,I Admit,Sanda,English,18,23,0.9583333333333334,18
+1228,Let Me Try,Luminița Anghel & Sistem,English,3,4,0.16666666666666666,158
+1229,Mother,Axel Hirsoux,English,0,0,0,0
+1230,"Liubi, Liubi, I Love You (Люби, Люби, I love you)",Todomondo,Mixed,13,20,0.8333333333333334,84
+1231,Pe-o margine de lume,Nico & Vlad,Mixed,20,1,0.04,45
+1232,The Balkan Girls,Elena,English,19,22,0.88,40
+1233,Amazing,Tanja,English,0,0,0,0
+1234,Something Better,Softengine,English,11,18,0.6923076923076923,72
+1235,Moustache,Twin Twin,Mixed,26,14,0.5384615384615384,2
+1236,It's My Life,Cezar,English,13,14,0.5384615384615384,65
+1237,Three Minutes to Earth,The Shin & Mariko,English,0,0,0,0
+1238,Is It Right,Elaiza,English,18,12,0.46153846153846156,39
+1239,Yodel It!,Ilinca feat. Alex Florea,English,7,20,0.7692307692307693,282
+1240,Goodbye,The Humans,English,0,0,0,0
+1241,On a Sunday,Ester Peony,English,0,0,0,0
+1242,Alcohol You,ROXEN,English,0,0,0,0
+1243,Amnesia,Roxen,English,0,0,0,0
+1244,Vechnyy strannik (Вечный странник),Youddiph,NotEnglish,9,23,0.92,70
+1245,Kolybel'naya dlya vulkana (Колыбельная для вулкана),Philipp Kirkorov,NotEnglish,17,6,0.2608695652173913,17
+1246,Primadonna (Примадонна),Alla Pugacheva,NotEnglish,15,20,0.7692307692307693,33
+1247,Solo,Alsou,English,2,9,0.34615384615384615,155
+1248,Lady Alpine Blue,Mumiy Troll,English,12,6,0.25,37
+1249,Northern Girl,Prime Minister,English,10,7,0.28,55
+1250,Rise Up,Freaky Fortune feat. RiskyKidd,English,20,10,0.38461538461538464,35
+1251,Believe Me,Julia Savicheva,English,11,14,0.5833333333333334,67
+1252,Nobody Hurt No One,Natalia Podolskaya,English,15,20,0.8333333333333334,57
+1253,No Prejudice,Pollapönk,English,15,4,0.15384615384615385,58
+1254,Song #1,Serebro,English,3,15,0.625,207
+1255,Believe,Dima Bilan (2),English,1,24,0.96,272
+1256,Mamo (Мамо),Anastasia Prikhodko,Mixed,11,10,0.4,91
+1257,Heartbeat,Can-Linn feat. Kasey Smith,English,0,0,0,0
+1258,Same Heart,Mei Finegold,Mixed,0,0,0,0
+1259,La mia città,Emma Marrone,Mixed,21,16,0.6153846153846154,33
+1260,What If,Dina Garipova,English,5,10,0.38461538461538464,174
+1261,Cake to Bake,Aarzemnieki,Mixed,0,0,0,0
+1262,Attention,Vilija,English,0,0,0,0
+1263,You Are the Only One,Sergey Lazarev,English,3,18,0.6923076923076923,491
+1264,I Won't Break,Julia Samoylova,English,0,0,0,0
+1265,Scream,Sergey Lazarev (2),English,3,5,0.19230769230769232,370
+1266,Uno,Little Big,Mixed,0,0,0,0
+1267,Russian Woman,Manizha,NotEnglish,9,5,0.18518518518518517,204
+1268,Complice,Miodio,NotEnglish,0,0,0,0
+1269,To the Sky,Tijana,English,0,0,0,0
+1270,Wild Soul,Cristina Scarlat,English,0,0,0,0
+1271,Crisalide (Vola),Valentina Monetta (2),NotEnglish,0,0,0,0
+1272,Moj svijet (Мој свијет),Sergej Ćetković,NotEnglish,19,8,0.3076923076923077,37
+1273,Silent Storm,Carl Espen,English,8,5,0.19230769230769232,88
+1274,I Didn't Know,Serhat,English,0,0,0,0
+1275,Spirit of the Night,Valentina Monetta (4) & Jimmie Wilson,English,0,0,0,0
+1276,Who We Are,Jessika feat. Jenifer Brening,English,0,0,0,0
+1277,Say Na Na Na,Serhat (2),Mixed,19,7,0.2692307692307692,77
+1278,Freaky!,Senhit,English,0,0,0,0
+1279,Adrenalina,Senhit,English,22,26,0.9629629629629629,50
+1280,Molitva (Молитва),Marija Šerifović,NotEnglish,1,17,0.7083333333333334,268
+1281,Oro (Оро),Jelena Tomašević feat. Bora Dugić,NotEnglish,6,23,0.92,160
+1282,Cipela (Ципела),Marko Kon & Milaan,NotEnglish,0,0,0,0
+1283,My Słowianie – We Are Slavic,Donatan & Cleo,Mixed,14,9,0.34615384615384615,62
+1284,Quero ser tua,Suzy,NotEnglish,0,0,0,0
+1285,Miracle,Paula Seling (2) & Ovi (2),English,12,6,0.23076923076923078,72
+1286,Ljubav je svuda (Љубав је свуда),Moje 3,NotEnglish,0,0,0,0
+1287,Shine,Tolmachevy Sisters,English,7,15,0.5769230769230769,89
+1288,Goodbye (Shelter),ZAA Sanja Vučić,English,18,15,0.5769230769230769,115
+1289,In Too Deep,Tijana Bogićević,English,0,0,0,0
+1290,Nova deca (Нова деца),Sanja Ilić & Balkanika,NotEnglish,19,10,0.38461538461538464,113
+1291,Kruna (Круна),Nevena Božović,Mixed,18,23,0.8846153846153846,89
+1292,Hasta La Vista,Hurricane,NotEnglish,0,0,0,0
+1293,Loco Loco,Hurricane,NotEnglish,15,8,0.2962962962962963,102
+1294,Lane moje (Лане моје),Željko Joksimović & Ad Hoc Orchestra,NotEnglish,2,5,0.20833333333333334,263
+1295,Zauvijek moja (Заувијек моја),No Name,NotEnglish,7,12,0.5,137
+1296,Nekonečná pieseň,Martin Ďurinda & Tublatanka,NotEnglish,19,15,0.6,15
+1297,Kým nás máš,Marcel Palonder,NotEnglish,18,22,0.9565217391304348,19
+1298,Modlitba,Katarína Hasprová,NotEnglish,21,6,0.24,8
+1299,Leť tmou,Kamil Mikulčík & Nela Pocisková,NotEnglish,0,0,0,0
+1300,Round and Round (Spet),Tinkara Kovač,Mixed,25,17,0.6538461538461539,9
+1301,Dancing in the Rain,Ruth Lorenzo,Mixed,10,19,0.7307692307692307,74
+1302,Cliché Love Song,Basim,English,9,23,0.8846153846153846,74
+1303,Tih deževen dan,1X Band,NotEnglish,22,16,0.64,9
+1304,Running,András Kállay-Saunders,English,5,21,0.8076923076923077,143
+1305,Dan najlepših sanj,Regina (singer),NotEnglish,21,14,0.6086956521739131,16
+1306,Zbudi se,Tanja Ribič,NotEnglish,10,6,0.23076923076923078,60
+1307,Naj bogovi slišijo,Vili Resnik,NotEnglish,18,12,0.48,17
+1308,For a Thousand Years,Darja Švajger (2),English,11,6,0.2608695652173913,50
+1309,Energy,Nuša Derenda,English,7,17,0.7083333333333334,70
+1310,Samo ljubezen,Sestre,NotEnglish,13,22,0.88,33
+1311,Coming Home,Firelight,English,23,22,0.8461538461538461,32
+1312,Stay Forever,Platin,English,0,0,0,0
+1313,Stop,Omar Naber,NotEnglish,0,0,0,0
+1314,Calm After the Storm,The Common Linnets,English,2,24,0.9230769230769231,238
+1315,Cvet z juga,Alenka Gotar,NotEnglish,15,7,0.2916666666666667,66
+1316,Vrag naj vzame,Rebeka Dremelj,NotEnglish,0,0,0,0
+1317,Love Symphony (Simfonija),Quartissimo feat. Martina,Mixed,0,0,0,0
+1318,Undo,Sanna Nielsen,English,3,13,0.5,218
+1319,Maybe,Valentina Monetta (3),English,24,25,0.9615384615384616,14
+1320,Hunter of Stars,Sebalter,English,13,20,0.7692307692307693,64
+1321,Straight into Love,Hannah,English,0,0,0,0
+1322,Children of the Universe,Molly,English,17,26,1,40
+1323,Tick-Tock,Mariya Yaremchuk,English,6,1,0.038461538461538464,113
+1324,Blue and Red,ManuElla,English,0,0,0,0
+1325,On My Way,Omar Naber (2),English,0,0,0,0
+1326,"Hvala, ne!",Lea Sirk,NotEnglish,22,3,0.11538461538461539,64
+1327,Sebi,Zala Kralj & Gašper Šantl,NotEnglish,15,10,0.38461538461538464,105
+1328,Voda,Ana Soklič,NotEnglish,0,0,0,0
+1329,Amen,Ana Soklič,English,0,0,0,0
+1330,Estando contigo,Conchita Bautista,NotEnglish,9,1,0.05263157894736842,8
+1331,Llámame,Victor Balaguer,NotEnglish,13,3,0.13043478260869565,0
+1332,Algo prodigioso,José Guardiola,NotEnglish,12,12,0.46153846153846156,2
+1333,Caracola,Los TNT,NotEnglish,12,16,0.8,1
+1334,"¡Qué bueno, qué bueno!",Conchita Bautista (2),NotEnglish,15,3,0.125,0
+1335,Yo soy aquél,Raphael,NotEnglish,7,11,0.4230769230769231,9
+1336,Hablemos del amor,Raphael (2),NotEnglish,6,12,0.5714285714285714,9
+1337,"La, la, la",Massiel,NotEnglish,1,15,0.7894736842105263,29
+1338,Vivo cantando,Salomé,NotEnglish,1,3,0.15789473684210525,18
+1339,Gwendolyne,Julio Iglesias,NotEnglish,4,9,0.45,8
+1340,En un mundo nuevo,Karina,NotEnglish,2,6,0.2608695652173913,116
+1341,Amanece,Jaime Morey,NotEnglish,10,4,0.18181818181818182,83
+1342,Eres tú,Mocedades,NotEnglish,2,7,0.28,125
+1343,Canta y sé feliz,Peret,NotEnglish,9,3,0.13043478260869565,10
+1344,Tú volverás,Sergio & Estíbaliz,NotEnglish,10,17,0.8947368421052632,53
+1345,Sobran las palabras,Braulio,NotEnglish,16,12,0.5454545454545454,11
+1346,Enséñame a cantar,Micky,NotEnglish,9,14,0.56,52
+1347,Bailemos un vals,José Vélez,Mixed,9,7,0.35,65
+1348,Su canción,Betty Missiego,NotEnglish,2,19,0.8260869565217391,116
+1349,Quédate esta noche,Trigo Limpio,NotEnglish,12,18,0.72,38
+1350,Y sólo tú,Bacchelli,NotEnglish,14,10,0.43478260869565216,38
+1351,Él,Lucía,NotEnglish,10,12,0.6666666666666666,52
+1352,¿Quién maneja mi barca?,Remedios Amaya,NotEnglish,19,7,0.3181818181818182,0
+1353,"Lady, Lady",Bravo,NotEnglish,3,4,0.16666666666666666,106
+1354,La fiesta terminó,Paloma San Basilio,NotEnglish,14,5,0.2631578947368421,36
+1355,Valentino,Cadillac,NotEnglish,10,9,0.36,51
+1356,No estás solo,Patricia Kraus,NotEnglish,19,9,0.34615384615384615,10
+1357,La chica que yo quiero (Made in Spain),La Década,Mixed,11,6,0.24,58
+1358,Nacida para amar,Nina,NotEnglish,6,16,0.7272727272727273,88
+1359,Bandido,Azúcar Moreno,Mixed,5,1,0.04,96
+1360,Bailar pegados,Sergio Dalma,NotEnglish,4,19,0.8636363636363636,119
+1361,Todo esto es la música,Serafín Zubiri,NotEnglish,14,1,0.04,37
+1362,Hombres,Eva Santamaría,NotEnglish,11,22,0.88,58
+1363,Ella no es ella,Alejandro Abad,NotEnglish,18,21,0.84,17
+1364,Vuelve conmigo,Anabel Conde,NotEnglish,2,9,0.391304347826087,119
+1365,"¡Ay, qué deseo!",Antonio Carbonell,NotEnglish,20,3,0.13043478260869565,17
+1366,Sin rencor,Marcos Llunas,NotEnglish,6,10,0.38461538461538464,96
+1367,¿Qué voy a hacer sin ti?,Mikel Herzog,NotEnglish,16,4,0.16,21
+1368,No quiero escuchar,Lydia,NotEnglish,23,3,0.13043478260869565,1
+1369,Colgado de un sueño,Serafín Zubiri (2),NotEnglish,18,13,0.5,18
+1370,Dile que la quiero,David Civera,NotEnglish,6,13,0.5416666666666666,76
+1371,Europe's Living a Celebration,Rosa,NotEnglish,7,5,0.2,81
+1372,I'm Alive,Elhaida Dani,English,17,26,0.9629629629629629,34
+1373,Para llenarme de ti,Ramón,NotEnglish,10,1,0.041666666666666664,87
+1374,Brujería,Son de Sol,NotEnglish,21,10,0.4166666666666667,28
+1375,Face the Shadow,Genealogy,English,16,6,0.2222222222222222,34
+1376,I Love You Mi Vida,D'Nash,Mixed,20,2,0.08333333333333333,43
+1377,Baila el chiki chiki,Rodolfo Chikilicuatre,Mixed,16,22,0.88,55
+1378,La noche es para mí,Soraya Arnelas,NotEnglish,24,25,1,23
+1379,Tonight Again,Guy Sebastian,English,5,12,0.4444444444444444,196
+1380,I Am Yours,The Makemakes,English,26,14,0.5185185185185185,0
+1381,Hour of the Wolf,Elnur Huseynov (2),English,12,24,0.8888888888888888,49
+1382,Contigo hasta el final,ESDM,Mixed,25,5,0.19230769230769232,8
+1383,Time,Uzari & Maimuna,English,0,0,0,0
+1384,Rhythm Inside,Loïc Nottet,English,4,13,0.48148148148148145,217
+1385,Say Yay!,Barei,English,22,19,0.7307692307692307,77
+1386,Do It for Your Lover,Manel Navarro,Mixed,26,16,0.6153846153846154,5
+1387,Tu canción,Amaia & Alfred,NotEnglish,23,2,0.07692307692307693,61
+1388,La venda,Miki,NotEnglish,22,26,1,54
+1389,Universo,Blas Cantó,NotEnglish,0,0,0,0
+1390,Voy A Quedarme,Blas Cantó,NotEnglish,24,13,0.48148148148148145,6
+1391,"April, april",Lill-Babs,NotEnglish,14,7,0.3684210526315789,2
+1392,Sol och vår,Inger Berggren,NotEnglish,7,6,0.2608695652173913,4
+1393,En gång i Stockholm,Monica Zetterlund,NotEnglish,13,13,0.5,0
+1394,Absent Friend,Ingvar Wixell,English,10,10,0.4166666666666667,6
+1395,Nygammal vals (Hip man svinaherde),Lill Lindfors & Svante Thuresson,NotEnglish,2,10,0.38461538461538464,16
+1396,Som en dröm,Östen Warnerbring,NotEnglish,8,7,0.3333333333333333,7
+1397,"Det börjar verka kärlek, banne mej",Claes-Göran Hederström,NotEnglish,5,8,0.42105263157894735,15
+1398,"Judy, min vän",Tommy Körberg,NotEnglish,9,9,0.47368421052631576,8
+1399,Vita vidder,Family Four,NotEnglish,6,12,0.5217391304347826,85
+1400,Härliga sommardag,Family Four (2),NotEnglish,13,14,0.6363636363636364,75
+1401,You're Summer (You Never Tell Me No),Nova feat. The Dolls,English,5,12,0.48,94
+1402,Waterloo,ABBA,English,1,8,0.34782608695652173,24
+1403,"Jennie, Jennie",Lasse Berghagen feat. The Dolls (2),English,8,18,0.9473684210526315,72
+1404,Beatles,Forbes,NotEnglish,18,13,0.52,2
+1405,One Thing I Should Have Done,John Karayiannis,English,22,11,0.4074074074074074,11
+1406,Satellit,Ted Gärdestad,NotEnglish,17,15,0.6521739130434783,8
+1407,Just nu!,Tomas Ledin,NotEnglish,10,8,0.32,47
+1408,Fångad i en dröm,Björn Skifs (2),NotEnglish,10,20,0.8695652173913043,50
+1409,Dag efter dag,Chips,NotEnglish,8,9,0.5,67
+1410,Främling,Carola,NotEnglish,3,4,0.18181818181818182,126
+1411,Diggi-loo diggi-ley,Herreys,NotEnglish,1,1,0.041666666666666664,145
+1412,Bra vibrationer,Kikki Danielsson,NotEnglish,3,16,0.8421052631578947,103
+1413,E' de' det här du kallar kärlek?,Lasse Holm & Monica Törnell,NotEnglish,5,17,0.68,78
+1414,Boogaloo,Lotta Engberg,NotEnglish,12,6,0.23076923076923078,50
+1415,Stad i ljus,Tommy Körberg (2),NotEnglish,12,2,0.08,52
+1416,En dag,Tommy Nilsson,NotEnglish,4,10,0.45454545454545453,110
+1417,Som en vind,Edin-Ådahl,NotEnglish,16,18,0.72,24
+1418,Fångad av en stormvind,Carola (2),NotEnglish,1,8,0.36363636363636365,146
+1419,I morgon är en annan dag,Christer Björkman,NotEnglish,22,7,0.28,9
+1420,Eloise,Arvingarna,NotEnglish,7,13,0.52,89
+1421,Stjärnorna,Marie Bergman & Roger Pontare,NotEnglish,13,1,0.04,48
+1422,Hope Never Dies,Marta Jandová & Václav Noid Bárta,English,0,0,0,0
+1423,Den vilda,One More Time,NotEnglish,3,23,1,100
+1424,Bara hon älskar mig,Blond,NotEnglish,14,16,0.6153846153846154,36
+1425,Kärleken är,Jill Johnson,NotEnglish,10,19,0.76,53
+1426,Take Me to Your Heaven,Charlotte Nilsson (Perrelli),English,1,15,0.6521739130434783,163
+1427,When Spirits Are Calling My Name,Roger Pontare (2),English,7,18,0.6923076923076923,88
+1428,Listen to Your Heartbeat,Friends,English,5,7,0.2916666666666667,100
+1429,Never Let It Go,Afro-Dite,English,8,12,0.48,72
+1430,The Way You Are,Anti Social Media,English,0,0,0,0
+1431,It Hurts,Lena Philipsson,English,5,24,1,170
+1432,Las Vegas,Martin Stenmarck,English,19,14,0.5833333333333334,30
+1433,Goodbye to Yesterday,Elina Born & Stig Rästa,English,7,4,0.14814814814814814,106
+1434,The Worrying Kind,The Ark,English,18,12,0.5,51
+1435,Hero,Charlotte Perrelli (2),English,18,15,0.6,47
+1436,La voix,Malena Ernman,Mixed,21,0,0,33
+1437,Aina mun pitää,Pertti Kurikan Nimipäivät,NotEnglish,0,0,0,0
+1438,N'oubliez pas,Lisa Angell,NotEnglish,25,2,0.07407407407407407,4
+1439,Warrior,Nina Sublatti,English,11,23,0.8518518518518519,51
+1440,You,Robin Stjernberg,English,14,16,0.6153846153846154,62
+1441,Black Smoke,Ann Sophie,English,26,17,0.6296296296296297,0
+1442,One Last Breath,Maria Elena Kyriakou,English,19,15,0.5555555555555556,23
+1443,If I Were Sorry,Frans,English,5,9,0.34615384615384615,261
+1444,I Can't Go On,Robin Bengtsson,English,5,24,0.9230769230769231,344
+1445,Dance You Off,Benjamin Ingrosso,English,7,20,0.7692307692307693,274
+1446,Too Late for Love,John Lundvik,English,5,9,0.34615384615384615,334
+1447,Move,The Mamas,English,0,0,0,0
+1448,Voices,Tusse,English,14,25,0.9259259259259259,109
+1449,Nous aurons demain,Franca di Rienzo,NotEnglish,3,10,0.5263157894736842,16
+1450,Le retour,Jean Philippe (2),NotEnglish,10,11,0.4782608695652174,2
+1451,T'en va pas,Esther Ofarim,NotEnglish,2,10,0.38461538461538464,40
+1452,I miei pensieri,Anita Traversi (2),NotEnglish,13,14,0.7,0
+1453,Non – à jamais sans toi,Yovanna,NotEnglish,8,18,0.75,8
+1454,Ne vois-tu pas?,Madeleine Pascal,NotEnglish,6,12,0.46153846153846156,12
+1455,Quel cœur vas-tu briser?,Géraldine,NotEnglish,17,6,0.2857142857142857,0
+1456,Guardando il sole,Gianni Mascolo,NotEnglish,13,6,0.3157894736842105,2
+1457,"Bonjour, bonjour",Paola del Medico,Mixed,5,11,0.5789473684210527,13
+1458,Retour,Henri Dès,NotEnglish,4,2,0.1,8
+1459,Les illusions de nos vingt ans,"Peter, Sue & Marc",NotEnglish,12,4,0.17391304347826086,78
+1460,C'est la chanson de mon amour,Véronique Müller,NotEnglish,8,8,0.36363636363636365,88
+1461,"Je vais me marier, Marie",Patrick Juvet,NotEnglish,12,8,0.32,79
+1462,Mein Ruf nach dir,Piera Martell,NotEnglish,14,15,0.6521739130434783,3
+1463,Mikado,Simone Drexel,NotEnglish,6,7,0.3684210526315789,77
+1464,"Djambo, Djambo","Peter, Sue & Marc (2)",English,4,2,0.09090909090909091,91
+1465,Swiss Lady,Pepe Lienhard Band,NotEnglish,6,12,0.48,71
+1466,Vivre,Carole Vinci,NotEnglish,9,9,0.45,65
+1467,Trödler und Co.,"Peter, Sue & Marc (3) & Pfuri, Gorps & Kniri",NotEnglish,10,8,0.34782608695652173,60
+1468,Cinéma,Paola del Medico (2),NotEnglish,4,9,0.36,104
+1469,Io senza te,"Peter, Sue & Marc (4)",NotEnglish,4,19,0.8260869565217391,121
+1470,Amour on t'aime,Arlette Zola,NotEnglish,3,7,0.3888888888888889,97
+1471,Io così non ci sto,Mariella Farré,NotEnglish,15,8,0.36363636363636365,28
+1472,Welche Farbe hat der Sonnenschein?,Rainy Day,NotEnglish,16,17,0.7083333333333334,30
+1473,"Piano, piano",Mariella Farré (2) & Pino Gasparini,NotEnglish,12,15,0.7894736842105263,39
+1474,Pas pour moi,Daniela Simmons,NotEnglish,2,10,0.4,140
+1475,"Moitié, moitié",Carol Rich,NotEnglish,17,22,0.8461538461538461,26
+1476,Ne partez pas sans moi,Céline Dion,NotEnglish,1,9,0.36,137
+1477,Viver senza tei,Furbaz,NotEnglish,13,18,0.8181818181818182,47
+1478,Musik klingt in die Welt hinaus,Egon Egemann,NotEnglish,11,12,0.48,51
+1479,Canzone per te,Sandra Simó,NotEnglish,5,5,0.22727272727272727,118
+1480,Mister Music Man,Daisy Auvray,NotEnglish,15,13,0.52,32
+1481,"Moi, tout simplement",Annie Cotton,NotEnglish,3,4,0.16,148
+1482,Sto pregando,Duilio,NotEnglish,19,9,0.36,15
+1483,Mon cœur l'aime,Kathy Leander,NotEnglish,16,9,0.391304347826087,22
+1484,Dentro di me,Barbara Berta,NotEnglish,22,7,0.2692307692307692,5
+1485,Lass ihn,Gunvor,NotEnglish,25,5,0.2,0
+1486,La vita cos'è?,Jane Bogaert,NotEnglish,20,16,0.6153846153846154,14
+1487,Dans le jardin de mon âme,Francine Jordi,NotEnglish,22,11,0.44,15
+1488,Celebrate!,Piero Esteriore & The Music Stars,English,0,0,0,0
+1489,Cool Vibes,Vanilla Ninja,English,8,22,0.9166666666666666,128
+1490,Wars for Nothing,Boggie,English,20,22,0.8148148148148148,19
+1491,Vampires Are Alive,DJ BoBo,English,0,0,0,0
+1492,Era stupendo,Paolo Meneguzzi,NotEnglish,0,0,0,0
+1493,The Highest Heights,Lovebugs,English,0,4,0.16,0
+1494,Unbroken,Maria Olafs,English,0,0,0,0
+1495,Playing with Numbers,Molly Sterling,English,0,0,0,0
+1496,Golden Boy,Nadav Guedj,English,9,3,0.1111111111111111,97
+1497,You and Me,Takasa,English,0,0,0,0
+1498,Love Injected,Aminata,English,6,19,0.7037037037037037,186
+1499,This Time,Monika Linkytė & Vaidas Baumila,English,18,7,0.25925925925925924,30
+1500,The Last of Our Kind,Rykka,English,0,0,0,0
+1501,Apollo,Timebelle,English,0,0,0,0
+1502,Stones,ZiBBZ,English,0,0,0,0
+1503,She Got Me,Luca Hänni,English,4,24,0.9230769230769231,364
+1504,Répondez-moi,Gjon's Tears,NotEnglish,0,0,0,0
+1505,Tout l'Univers,Gjon's Tears,NotEnglish,3,11,0.4074074074074074,432
+1506,Seninle bir dakika,Semiha Yankı,NotEnglish,19,13,0.6842105263157895,3
+1507,Sevince,Nilüfer & Nazar,NotEnglish,18,12,0.6,2
+1508,Pet'r Oil,Ajda Pekkan,NotEnglish,15,2,0.08,23
+1509,Dönme dolap,Modern Folk Üçlüsü & Ayşegül,NotEnglish,18,2,0.08695652173913043,9
+1510,Hani?,Neco,NotEnglish,15,5,0.2777777777777778,20
+1511,Opera,Çetin Alp & The Short Waves,NotEnglish,19,6,0.2727272727272727,0
+1512,Halay,Beş Yıl Önce On Yıl Sonra,NotEnglish,12,15,0.625,37
+1513,Didai didai dai (Aşık oldum),MFÖ,NotEnglish,14,7,0.3684210526315789,36
+1514,Halley,Klips ve Onlar,Mixed,9,8,0.32,53
+1515,Şarkım sevgi üstüne,Seyyal Taner & Lokomotif,NotEnglish,22,10,0.38461538461538464,0
+1516,Sufi,MFÖ (2),Mixed,15,5,0.2,37
+1517,Bana bana,Pan,NotEnglish,21,5,0.22727272727272727,5
+1518,Gözlerinin hapsindeyim,Kayahan,NotEnglish,17,4,0.16,21
+1519,İki dakika,"Can Uğurluer, İzel Çeliköz & Reyhan Karaca",NotEnglish,12,10,0.45454545454545453,44
+1520,Yaz bitti,Aylin Vatankoş,NotEnglish,19,4,0.16,17
+1521,Esmer yarim,Burak Aydos,NotEnglish,21,2,0.08,10
+1522,Sev,Arzu Ece,NotEnglish,16,10,0.43478260869565216,21
+1523,Beşinci mevsim,Şebnem Paker,NotEnglish,12,1,0.043478260869565216,57
+1524,Dinle,Şebnem Paker (2) & Grup Etnic,NotEnglish,3,2,0.07692307692307693,121
+1525,Unutamazsın,Tüzmen,NotEnglish,14,24,0.96,25
+1526,Dön artık,Tuğba Önal & Grup Mistik,NotEnglish,16,7,0.30434782608695654,21
+1527,Yorgunum anla,Pınar Ayhan & The S.O.S.,Mixed,10,22,0.8461538461538461,59
+1528,Sevgiliye son,Sedat Yüce,Mixed,11,15,0.625,41
+1529,Leylaklar soldu kalbinde,Buket Bengisu & Grup Safir,Mixed,16,19,0.76,29
+1530,Autumn Leaves,Daniel Kajmakoski,English,0,0,0,0
+1531,For Real,Athena,English,4,22,0.9166666666666666,195
+1532,Rimi rimi ley,Gülseren,NotEnglish,13,6,0.25,92
+1533,Warrior,Amber,English,0,0,0,0
+1534,Shake It Up Şekerim,Kenan Doğulu,English,4,22,0.9166666666666666,163
+1535,Deli,Mor ve Ötesi,NotEnglish,7,12,0.48,138
+1536,Düm tek tek,Hadise,English,4,18,0.72,177
+1537,I Want Your Love,Eduard Romanyuta,English,0,0,0,0
+1538,Adio (Адио),Knez,NotEnglish,13,16,0.5925925925925926,44
+1539,Walk Along,Trijntje Oosterhuis,English,0,0,0,0
+1540,A Monster Like Me,Mørland & Debrah Scarlett,English,8,9,0.3333333333333333,102
+1541,Wild Dances (Dyki tantsi) (Дикі танці),Ruslana,Mixed,1,10,0.4166666666666667,280
+1542,Razom nas bahato (Nas ne podolaty) (Разом нас багато (Нас не подолати)),GreenJolly,Mixed,19,16,0.6666666666666666,30
+1543,In the Name of Love,Monika Kuszyńska,English,23,18,0.6666666666666666,10
+1544,Dancing Lasha Tumbai (Данцінґ Лаша Тумбай),Verka Serduchka,Mixed,2,18,0.75,235
+1545,Shady Lady,Ani Lorak,English,2,18,0.72,230
+1546,Be My Valentine! (Anti-Crisis Girl),Svetlana Loboda,English,12,21,0.84,76
+1547,Há um mar que nos separa,Leonor Andrade,NotEnglish,0,0,0,0
+1548,De la capăt (All Over Again),Voltaj,Mixed,15,20,0.7407407407407407,35
+1549,A Million Voices,Polina Gagarina,English,2,25,0.9259259259259259,303
+1550,Gravity,Zlata Ognevich,English,3,22,0.8461538461538461,214
+1551,Chain of Lights,Anita Simoncini & Michele Perniola,English,0,0,0,0
+1552,1944,Jamala,Mixed,1,21,0.8076923076923077,534
+1553,Time,O.Torvald,English,24,22,0.8461538461538461,36
+1554,Under the Ladder,Mélovin,English,17,1,0.038461538461538464,130
+1555,Solovey,Go_A,NotEnglish,0,0,0,0
+1556,Shum,Go_A,NotEnglish,5,19,0.7037037037037037,364
+1557,Are You Sure?,The Allisons,English,2,15,0.7894736842105263,24
+1558,Ring-a-Ding Girl,Ronnie Carroll,English,4,13,0.5652173913043478,10
+1559,Say Wonderful Things,Ronnie Carroll (2),English,4,1,0.038461538461538464,28
+1560,I Love the Little Things,Matt Monro,English,2,8,0.4,17
+1561,I Belong,Kathy Kirby,English,2,2,0.08333333333333333,26
+1562,A Man Without Love,Kenneth McKellar,English,9,18,0.6923076923076923,8
+1563,Puppet on a String,Sandie Shaw,English,1,11,0.5238095238095238,47
+1564,Congratulations,Cliff Richard,English,2,12,0.631578947368421,28
+1565,Boom Bang-a-Bang,Lulu,English,1,7,0.3684210526315789,18
+1566,"Knock, Knock Who's There?",Mary Hopkin,English,2,7,0.35,26
+1567,Jack in the Box,Clodagh Rodgers,English,4,9,0.391304347826087,98
+1568,"Beg, Steal or Borrow",The New Seekers,English,2,5,0.22727272727272727,114
+1569,Power to All Our Friends,Cliff Richard (2),English,3,15,0.6,123
+1570,Long Live Love,Olivia Newton-John,English,4,2,0.08695652173913043,14
+1571,Let Me Be the One,The Shadows,English,2,9,0.47368421052631576,138
+1572,Save Your Kisses for Me,Brotherhood of Man,English,1,1,0.045454545454545456,164
+1573,Rock Bottom,Lynsey de Paul & Mike Moran,English,2,9,0.36,121
+1574,The Bad Old Days,Co-Co,English,11,8,0.4,61
+1575,Mary Ann,Black Lace,English,7,17,0.7391304347826086,73
+1576,Love Enough for Two,Prima Donna,English,3,13,0.52,106
+1577,Making Your Mind Up,Bucks Fizz,English,1,14,0.6086956521739131,136
+1578,One Step Further,Bardo,English,7,4,0.2222222222222222,76
+1579,I'm Never Giving Up,Sweet Dreams,English,6,3,0.13636363636363635,79
+1580,Love Games,Belle & The Devotions,English,7,6,0.25,63
+1581,Love Is…,Vikki,English,4,14,0.7368421052631579,100
+1582,Runner in the Night,Ryder,English,7,5,0.2,72
+1583,Only the Light,Rikki,English,13,14,0.5384615384615384,47
+1584,Go,Scott Fitzgerald,English,2,4,0.16,136
+1585,Why Do I Always Get It Wrong?,Live Report,English,2,7,0.3181818181818182,130
+1586,Give a Little Love Back to the World,Emma,English,6,7,0.28,87
+1587,A Message to Your Heart,Samantha Janus,English,10,20,0.9090909090909091,47
+1588,One Step Out of Time,Michael Ball,English,2,16,0.64,139
+1589,Better the Devil You Know,Sonia,English,2,19,0.76,164
+1590,We Will Be Free (Lonely Symphony),Frances Ruffelle,English,10,6,0.24,63
+1591,Love City Groove,Love City Groove,English,10,15,0.6521739130434783,76
+1592,Ooh Aah... Just a Little Bit,Gina G,English,8,2,0.08695652173913043,77
+1593,Love Shine a Light,Katrina & The Waves,English,1,24,0.9230769230769231,227
+1594,Where Are You?,Imaani,English,2,16,0.64,166
+1595,Say It Again,Precious,English,12,5,0.21739130434782608,38
+1596,Don't Play That Song Again,Nicki French,English,16,3,0.11538461538461539,28
+1597,No Dream Impossible,Lindsay Dracass,English,15,16,0.6666666666666666,28
+1598,Come Back,Jessica Garlick,English,3,2,0.08,111
+1599,Beauty Never Lies,Bojana Stamenov,Mixed,10,8,0.2962962962962963,53
+1600,Hold on to Our Love,James Fox,English,16,20,0.8333333333333334,29
+1601,Touch My Fire,Javine,English,22,2,0.08333333333333333,18
+1602,Here for You,Maraaya,English,14,1,0.037037037037037035,39
+1603,Flying the Flag (For You),Scooch,English,22,19,0.7916666666666666,19
+1604,Even If,Andy Abraham,English,25,2,0.08,14
+1605,It's My Time,Jade Ewen,English,5,23,0.92,173
+1606,Amanecer,Edurne,NotEnglish,21,21,0.7777777777777778,15
+1607,Heroes,Måns Zelmerlöw,English,1,10,0.37037037037037035,365
+1608,Time to Shine,Mélanie René,English,0,0,0,0
+1609,Believe in Me,Bonnie Tyler,English,19,15,0.5769230769230769,23
+1610,Grande amore,Il Volo,NotEnglish,3,27,1,292
+1611,Still in Love with You,Electro Velvet,English,24,5,0.18518518518518517,5
+1612,You're Not Alone,Joe & Jake,English,24,25,0.9615384615384616,62
+1613,Never Give Up on You,Lucie Jones,English,15,18,0.6923076923076923,111
+1614,Storm,SuRie,English,24,9,0.34615384615384615,48
+1615,Bigger than Us,Michael Rice,English,26,16,0.6153846153846154,11
+1616,My Last Breath,James Newman,English,0,0,0,0
+1617,Embers,James Newman,English,26,9,0.3333333333333333,0
+1618,Neke davne zvezde (Неке давне звезде),Ljiljana Petrović,NotEnglish,8,5,0.2631578947368421,9
+1619,Ne pali svetlo u sumrak (Не пали светло у сумрак),Lola Novaković,NotEnglish,4,12,0.5217391304347826,10
+1620,Brodovi,Vice Vukov,NotEnglish,11,9,0.34615384615384615,3
+1621,Život je sklopio krug,Sabahudin Kurt,NotEnglish,13,13,0.65,0
+1622,Čežnja,Vice Vukov (2),NotEnglish,12,17,0.7083333333333334,2
+1623,Brez besed,Berta Ambrož,NotEnglish,7,5,0.19230769230769232,9
+1624,Vse rože sveta,Lado Leskovar,NotEnglish,8,15,0.7142857142857143,7
+1625,Jedan dan,Dubrovački trubaduri,NotEnglish,7,17,0.8947368421052632,8
+1626,Pozdrav svijetu,Ivan & M's,Mixed,13,1,0.05263157894736842,5
+1627,"Pridi, dala ti bom cvet",Eva Sršen,NotEnglish,11,4,0.2,4
+1628,Tvoj dječak je tužan,Krunoslav Slabinac,NotEnglish,14,16,0.6956521739130435,68
+1629,Muzika i ti,Tereza Kesovija (2),NotEnglish,9,13,0.5909090909090909,87
+1630,Gori vatra (Гори ватра),Zdravko Čolić,NotEnglish,15,9,0.36,65
+1631,Moja generacija (Generacija '42) (Моја генерација (Генерација '42)),Korni Grupa,NotEnglish,12,7,0.30434782608695654,6
+1632,Dan ljubezni,Pepel in kri,NotEnglish,13,8,0.42105263157894735,22
+1633,Ne mogu skriti svoju bol,Ambasadori,NotEnglish,17,18,0.8181818181818182,10
+1634,Lejla,Vajta,NotEnglish,15,7,0.30434782608695654,35
+1635,"Halo, halo (Хало, хало)",Aska,NotEnglish,14,14,0.7777777777777778,21
+1636,Džuli (Џули),Daniel,NotEnglish,4,12,0.5454545454545454,125
+1637,"Ciao, amore",Izolda & Vlado,Mixed,18,12,0.5,26
+1638,Željo moja,Doris Dragović,NotEnglish,11,2,0.08,49
+1639,Ja sam za ples,Novi fosili,NotEnglish,4,21,0.8076923076923077,92
+1640,Mangup,Srebrna krila,NotEnglish,6,21,0.84,87
+1641,Rock Me,Riva,Mixed,1,22,1,137
+1642,Hajde da ludujemo,Tajči,NotEnglish,7,15,0.6,81
+1643,Brazil (Бразил),Baby Doll,NotEnglish,21,1,0.045454545454545456,1
+1644,Ljubim te pesmama (Љубим те песмама),Extra Nena,NotEnglish,13,20,0.8,44

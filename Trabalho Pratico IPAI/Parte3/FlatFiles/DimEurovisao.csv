@@ -1,0 +1,66 @@
+﻿IDEurovisao,NumeroEdicao,TotalParticipantes,VerificacaoVotoJuri,VerificacaoTelevoto,TotalPontosPaisDa,MaxPontosPaisADaPaisB,DescricaoPontos,TotalPontosDisponivelConcurso,MaxPontuacaoPais,Ano,PaisAnfitriao,CidadeAnfitria,RegraLinguagem
+1,1,7,Voto Juri,Sem Televoto,,,,,,1956,Switzerland,Lugano,NaoExisteRegraLinguagem
+2,2,10,Voto Juri,Sem Televoto,10,10,10-Jan,100,90,1957,West Germany,Frankfurt,NaoExisteRegraLinguagem
+3,3,10,Voto Juri,Sem Televoto,10,10,10-Jan,100,90,1958,Netherlands,Hilversum,NaoExisteRegraLinguagem
+4,4,11,Voto Juri,Sem Televoto,10,10,10-Jan,110,100,1959,France,Cannes,NaoExisteRegraLinguagem
+5,5,13,Voto Juri,Sem Televoto,10,10,10-Jan,130,120,1960,United Kingdom,London,NaoExisteRegraLinguagem
+6,6,16,Voto Juri,Sem Televoto,10,10,10-Jan,160,150,1961,France,Cannes,NaoExisteRegraLinguagem
+7,7,16,Voto Juri,Sem Televoto,6,3,03-Jan,96,45,1962,Luxembourg,Luxembourg City,NaoExisteRegraLinguagem
+8,8,16,Voto Juri,Sem Televoto,15,5,05-Jan,240,75,1963,United Kingdom,London,NaoExisteRegraLinguagem
+9,9,16,Voto Juri,Sem Televoto,9,9,"5,3,1/6,3/9",144,135,1964,Denmark,Copenhagen,NaoExisteRegraLinguagem
+10,10,18,Voto Juri,Sem Televoto,9,9,"5,3,1/6,3/9",162,153,1965,Italy,Naples,NaoExisteRegraLinguagem
+11,11,18,Voto Juri,Sem Televoto,9,9,"5,3,1/6,3/9",162,153,1966,Luxembourg,Luxembourg City,ApenasLinguaMaterna
+12,12,17,Voto Juri,Sem Televoto,10,10,10-Jan,170,160,1967,Austria,Vienna,ApenasLinguaMaterna
+13,13,17,Voto Juri,Sem Televoto,10,10,10-Jan,170,160,1968,United Kingdom,London,ApenasLinguaMaterna
+14,14,16,Voto Juri,Sem Televoto,10,10,10-Jan,160,150,1969,Spain,Madrid,ApenasLinguaMaterna
+15,15,12,Voto Juri,Sem Televoto,10,10,10-Jan,120,110,1970,Netherlands,Amsterdam,ApenasLinguaMaterna
+16,16,18,Voto Juri,Sem Televoto,170,10,10-Feb,3060,170,1971,Ireland,Dublin,ApenasLinguaMaterna
+17,17,18,Voto Juri,Sem Televoto,170,10,10-Feb,3060,170,1972,United Kingdom,Edinburgh,ApenasLinguaMaterna
+18,18,17,Voto Juri,Sem Televoto,160,10,10-Feb,2720,160,1973,Luxembourg,Luxembourg City,ApenasLinguaMaterna
+19,19,17,Voto Juri,Sem Televoto,10,10,10-Jan,170,160,1974,United Kingdom,Brighton,NaoExisteRegraLinguagem
+20,20,19,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1102,216,1975,Sweden,Stockholm,NaoExisteRegraLinguagem
+21,21,18,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1044,204,1976,Netherlands,The Hague,NaoExisteRegraLinguagem
+22,22,18,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1044,204,1977,United Kingdom,London,ApenasLinguaMaterna
+23,23,20,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1160,228,1978,France,Paris,ApenasLinguaMaterna
+24,24,19,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1102,216,1979,Israel,Jerusalem,ApenasLinguaMaterna
+25,25,19,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1102,216,1980,Netherlands,The Hague,ApenasLinguaMaterna
+26,26,20,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1160,228,1981,Ireland,Dublin,ApenasLinguaMaterna
+27,27,18,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1044,204,1982,United Kingdom,Harrogate,ApenasLinguaMaterna
+28,28,20,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1160,228,1983,West Germany,Munich,ApenasLinguaMaterna
+29,29,19,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1102,216,1984,Luxembourg,Luxembourg City,ApenasLinguaMaterna
+30,30,19,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1102,216,1985,Sweden,Gothenburg,ApenasLinguaMaterna
+31,31,20,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1160,228,1986,Norway,Bergen,ApenasLinguaMaterna
+32,32,22,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1276,252,1987,Belgium,Brussels,ApenasLinguaMaterna
+33,33,21,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1218,240,1988,Ireland,Dublin,ApenasLinguaMaterna
+34,34,22,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1276,252,1989,Switzerland,Lausanne,ApenasLinguaMaterna
+35,35,22,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1276,252,1990,Yugoslavia,Zagreb,ApenasLinguaMaterna
+36,36,22,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1276,252,1991,Italy,Rome,ApenasLinguaMaterna
+37,37,23,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1334,264,1992,Sweden,Malmö,ApenasLinguaMaterna
+38,38,25,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1450,288,1993,Ireland,Millstreet,ApenasLinguaMaterna
+39,39,25,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1450,288,1994,Ireland,Dublin,ApenasLinguaMaterna
+40,40,23,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1334,264,1995,Ireland,Dublin,ApenasLinguaMaterna
+41,41,23,Voto Juri,Sem Televoto,58,12,"12,10,8-1",1334,264,1996,Norway,Oslo,ApenasLinguaMaterna
+42,42,25,Voto Juri,Televoto,58,12,"12,10,8-1",1450,288,1997,Ireland,Dublin,ApenasLinguaMaterna
+43,43,25,Sem Voto Juri,Televoto,58,12,"12,10,8-1",1450,288,1998,United Kingdom,Birmingham,ApenasLinguaMaterna
+44,44,23,Sem Voto Juri,Televoto,58,12,"12,10,8-1",1334,264,1999,Israel,Jerusalem,NaoExisteRegraLinguagem
+45,45,24,Sem Voto Juri,Televoto,58,12,"12,10,8-1",1392,276,2000,Sweden,Stockholm,NaoExisteRegraLinguagem
+46,46,23,Voto Juri,Televoto,58,12,"12,10,8-1",1334,264,2001,Denmark,Copenhagen,NaoExisteRegraLinguagem
+47,47,24,Voto Juri,Televoto,58,12,"12,10,8-1",1392,276,2002,Estonia,Tallinn,NaoExisteRegraLinguagem
+48,48,26,Sem Voto Juri,Televoto,58,12,"12,10,8-1",1508,300,2003,Latvia,Riga,NaoExisteRegraLinguagem
+49,49,36,Sem Voto Juri,Televoto,58,12,"12,10,8-1",2088,420,2004,Turkey,Istanbul,NaoExisteRegraLinguagem
+50,50,39,Sem Voto Juri,Televoto,58,12,"12,10,8-1",2262,456,2005,Ukraine,Kiev,NaoExisteRegraLinguagem
+51,51,37,Sem Voto Juri,Televoto,58,12,"12,10,8-1",2146,432,2006,Greece,Athens,NaoExisteRegraLinguagem
+52,52,42,Sem Voto Juri,Televoto,58,12,"12,10,8-1",2436,492,2007,Finland,Helsinki,NaoExisteRegraLinguagem
+53,53,43,Sem Voto Juri,Televoto,58,12,"12,10,8-1",2494,504,2008,Serbia,Belgrade,NaoExisteRegraLinguagem
+54,54,42,Voto Juri,Televoto,58,12,"12,10,8-1",2436,492,2009,Russia,Moscow,NaoExisteRegraLinguagem
+55,55,39,Voto Juri,Televoto,58,12,"12,10,8-1",2262,456,2010,Norway,Oslo,NaoExisteRegraLinguagem
+56,56,43,Voto Juri,Televoto,58,12,"12,10,8-1",2494,504,2011,Germany,Düsseldorf,NaoExisteRegraLinguagem
+57,57,42,Voto Juri,Televoto,58,12,"12,10,8-1",2436,492,2012,Azerbaijan,Baku,NaoExisteRegraLinguagem
+58,58,39,Voto Juri,Televoto,58,12,"12,10,8-1",2262,456,2013,Sweden,Malmö,NaoExisteRegraLinguagem
+59,59,37,Voto Juri,Televoto,58,12,"12,10,8-1",2146,432,2014,Denmark,Copenhagen,NaoExisteRegraLinguagem
+60,60,40,Voto Juri,Televoto,58,12,"12,10,8-1",2320,468,2015,Austria,Vienna,NaoExisteRegraLinguagem
+61,61,42,Voto Juri,Televoto,116,24,"(12,10,8-1) x 2",4872,984,2016,Sweden,Stockholm,NaoExisteRegraLinguagem
+62,62,42,Voto Juri,Televoto,116,24,"(12,10,8-1) x 2",4872,984,2017,Ukraine,Kiev,NaoExisteRegraLinguagem
+63,63,43,Voto Juri,Televoto,116,24,"(12,10,8-1) x 2",4988,1008,2018,Portugal,Lisbon,NaoExisteRegraLinguagem
+64,64,41,Voto Juri,Televoto,116,24,"(12,10,8-1) x 2",4756,960,2019,Israel,Tel Aviv,NaoExisteRegraLinguagem
+65,65,39,Voto Juri,Televoto,116,24,"(12,10,8-1) x 2",4524,912,2021,The Netherlands,Rotterdam,NaoExisteRegraLinguagem

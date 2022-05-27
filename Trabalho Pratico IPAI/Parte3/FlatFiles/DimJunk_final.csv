@@ -1,0 +1,7 @@
+IDJunk,VerificacaoVizinho,VerificacaoVoto
+1,PaisesVizinhos,Televoto
+2,PaisesVizinhos,VotoJuri
+3,PaisesVizinhos,VotoNaoDiscriminado
+4,PaisesNaoVizinhos,Televoto
+5,PaisesNaoVizinhos,VotoJuri
+6,PaisesNaoVizinhos,VotoNaoDiscriminado

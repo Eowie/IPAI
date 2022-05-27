@@ -1,0 +1,186 @@
+,IDConflito,LocalizacaoConflito,ParticipaEurovisao,NomeConflito,AnoInicio,AnoFim,Participante,EstadoDuranteEurovisao
+0,1,Morocco,ParticipanteEurovisao,Ifni War,1957,1958,Spain,AtivoDuranteEurovisao
+1,2,Morocco,ParticipanteEurovisao,Ifni War,1957,1958,France,AtivoDuranteEurovisao
+2,3,East Timor,NaoParticipaNaEurovisao,Viqueque Rebellion,1959,1959,Portugal,NaoAtivoDuranteEurovisao
+3,4,Yemen,NaoParticipaNaEurovisao,Upper Yafa disturbances,1959,1959,United Kingdom,NaoAtivoDuranteEurovisao
+4,5,Spain,ParticipanteEurovisao,Basque conflict,1959,2011,Spain,AtivoDuranteEurovisao
+5,6,Spain,ParticipanteEurovisao,Basque conflict,1959,2011,France,AtivoDuranteEurovisao
+6,7,Angola,NaoParticipaNaEurovisao,Angolan War of Independence,1961,1974,Portugal,AtivoDuranteEurovisao
+7,8,Algeria,NaoParticipaNaEurovisao,French military rebellion in Algeria,1961,1962,France,0
+8,9,Tunisia,NaoParticipaNaEurovisao,Bizerte Crisis,1961,1961,France,NaoAtivoDuranteEurovisao
+9,10,India,NaoParticipaNaEurovisao,Indian Annexation of Goa,1961,1961,Portugal,NaoAtivoDuranteEurovisao
+10,11,Papua New Guinea,NaoParticipaNaEurovisao,Operation Trikora,1961,1962,Netherlands,AtivoDuranteEurovisao
+11,12,Malaysia,NaoParticipaNaEurovisao,Communist insurgency in Sarawak,1962,1990,United Kingdom,AtivoDuranteEurovisao
+12,13,Brunei,NaoParticipaNaEurovisao,Brunei revolt,1962,1962,United Kingdom,NaoAtivoDuranteEurovisao
+13,14,Borneo,NaoParticipaNaEurovisao,Indonesia-Malaysia confrontation,1963,1966,Australia,AtivoDuranteEurovisao
+14,15,Borneo,NaoParticipaNaEurovisao,Indonesia-Malaysia confrontation,1963,1966,United Kingdom,AtivoDuranteEurovisao
+15,16,Guinea-Bissau,NaoParticipaNaEurovisao,Guinea-Bissau War of Independence,1963,1974,Portugal,AtivoDuranteEurovisao
+16,17,Oman,NaoParticipaNaEurovisao,Dhofar Rebellion,1963,1976,United Kingdom,AtivoDuranteEurovisao
+17,18,Yemen,NaoParticipaNaEurovisao,Aden Emergency,1963,1967,United Kingdom,AtivoDuranteEurovisao
+18,19,Congo,NaoParticipaNaEurovisao,Simba rebellion,1963,1965,Belgium,AtivoDuranteEurovisao
+19,20,Mozambique,NaoParticipaNaEurovisao,Mozambican War of Independence,1964,1974,Portugal,AtivoDuranteEurovisao
+20,21,Middle East,NaoParticipaNaEurovisao,War over Water,1964,1967,Israel,AtivoDuranteEurovisao
+21,22,Chad,NaoParticipaNaEurovisao,Chadian Civil War (1965–79),1965,1979,France,AtivoDuranteEurovisao
+22,23,Ireland,ParticipanteEurovisao,The Troubles,1966,1999,United Kingdom,AtivoDuranteEurovisao
+23,24,Ireland,ParticipanteEurovisao,The Troubles,1966,1999,Ireland,AtivoDuranteEurovisao
+24,25,Middle East,NaoParticipaNaEurovisao,Six-Day War,1967,1967, Israel,NaoAtivoDuranteEurovisao
+25,26,Israel,ParticipanteEurovisao,War of Attrition,1967,1970,Soviet Union,AtivoDuranteEurovisao
+26,27,Israel,ParticipanteEurovisao,War of Attrition,1967,1970,Israel,AtivoDuranteEurovisao
+27,28,Czechoslovakia,NaoParticipaNaEurovisao,Warsaw Pact invasion of Czechoslovakia,1968,1968,Soviet Union,NaoAtivoDuranteEurovisao
+28,29,Czechoslovakia,NaoParticipaNaEurovisao,Warsaw Pact invasion of Czechoslovakia,1968,1968,Bulgaria,NaoAtivoDuranteEurovisao
+29,30,Czechoslovakia,NaoParticipaNaEurovisao,Warsaw Pact invasion of Czechoslovakia,1968,1968,Germany,NaoAtivoDuranteEurovisao
+30,31,Czechoslovakia,NaoParticipaNaEurovisao,Warsaw Pact invasion of Czechoslovakia,1968,1968,Hungary,NaoAtivoDuranteEurovisao
+31,32,Czechoslovakia,NaoParticipaNaEurovisao,Warsaw Pact invasion of Czechoslovakia,1968,1968,Poland,NaoAtivoDuranteEurovisao
+32,33,Italy,ParticipanteEurovisao,Years of Lead,1969,1988,Italy,AtivoDuranteEurovisao
+33,34,Italy,ParticipanteEurovisao,Reggio revolt,1970,1971,Italy,AtivoDuranteEurovisao
+34,35,Cyprus,ParticipanteEurovisao,Turkish invasion of Cyprus,1974,1974,Cyprus,NaoAtivoDuranteEurovisao
+35,36,Cyprus,ParticipanteEurovisao,Turkish invasion of Cyprus,1974,1974,Greece,NaoAtivoDuranteEurovisao
+36,37,Cyprus,ParticipanteEurovisao,Turkish invasion of Cyprus,1974,1974,Turkey,NaoAtivoDuranteEurovisao
+37,38,Lebanon,NaoParticipaNaEurovisao,Lebanese Civil War,1975,1990,Israel,AtivoDuranteEurovisao
+38,39,Lebanon,NaoParticipaNaEurovisao,Lebanese Civil War,1975,1990,France,AtivoDuranteEurovisao
+39,40,Lebanon,NaoParticipaNaEurovisao,Lebanese Civil War,1975,1990,Italy,AtivoDuranteEurovisao
+40,41,Western Sahara,NaoParticipaNaEurovisao,Western Sahara War,1975,1991,France,AtivoDuranteEurovisao
+41,42,Morocco,ParticipanteEurovisao,Green March,1975,1975,Spain,NaoAtivoDuranteEurovisao
+42,43,Portugal,ParticipanteEurovisao,Coup of 25 November 1975,1975,1975,Portugal,NaoAtivoDuranteEurovisao
+43,44,Zaire,NaoParticipaNaEurovisao,Shaba I,1977,1977,France,AtivoDuranteEurovisao
+44,45,Ethiopia,NaoParticipaNaEurovisao,Ethio-Somali War,1977,1978,Soviet Union,AtivoDuranteEurovisao
+45,46,Chad,NaoParticipaNaEurovisao,Chadian–Libyan conflict,1978,1987,France,AtivoDuranteEurovisao
+46,47,Lebanon,NaoParticipaNaEurovisao,1978 South Lebanon conflict,1978,1978,Israel,0
+47,48,Zaire,NaoParticipaNaEurovisao,Shaba II,1978,1978,France,AtivoDuranteEurovisao
+48,49,Zaire,NaoParticipaNaEurovisao,Shaba II,1978,1978,Belgium,AtivoDuranteEurovisao
+49,50,Turkey,ParticipanteEurovisao,Kurdish–Turkish conflict,1978,,Turkey,0
+50,51,Falkland Islands,NaoParticipaNaEurovisao,Falklands War,1982,1982,United Kingdom,AtivoDuranteEurovisao
+51,52,Lebanon,NaoParticipaNaEurovisao,1982 Lebanon War,1982,1985,Israel,AtivoDuranteEurovisao
+52,53,Gaza Strip,NaoParticipaNaEurovisao,First Intifada,1987,1991,Israel,AtivoDuranteEurovisao
+53,54,Azerbaijan,ParticipanteEurovisao,First Nagorno-Karabakh War,1988,1994,Azerbaijan,AtivoDuranteEurovisao
+54,55,Azerbaijan,ParticipanteEurovisao,First Nagorno-Karabakh War,1988,1994,Armenia,AtivoDuranteEurovisao
+55,56,Romania,ParticipanteEurovisao,Romanian Revolution,1989,1989,Romania,NaoAtivoDuranteEurovisao
+56,57,Turkey,ParticipanteEurovisao,DHKP/C insurgency in Turkey,1990,,Turkey,0
+57,58,Iraq,NaoParticipaNaEurovisao,Gulf War,1990,1991,France,AtivoDuranteEurovisao
+58,59,Iraq,NaoParticipaNaEurovisao,Gulf War,1990,1991,Italy,AtivoDuranteEurovisao
+59,60,Iraq,NaoParticipaNaEurovisao,Gulf War,1990,1991,United Kingdom,AtivoDuranteEurovisao
+60,61,Rwanda,NaoParticipaNaEurovisao,Rwandan Civil War,1990,1994,France,AtivoDuranteEurovisao
+61,62,Moldova,ParticipanteEurovisao,War of Transnistria,1990,1992,Moldova,AtivoDuranteEurovisao
+62,63,Moldova,ParticipanteEurovisao,War of Transnistria,1990,1992,Romania,AtivoDuranteEurovisao
+63,64,Moldova,ParticipanteEurovisao,War of Transnistria,1990,1992,Ukraine,AtivoDuranteEurovisao
+64,65,Moldova,ParticipanteEurovisao,War of Transnistria,1990,1992,Russia,AtivoDuranteEurovisao
+65,66,Georgia,ParticipanteEurovisao,1991-1992 South Ossetia War,1991,1992,Georgia,AtivoDuranteEurovisao
+66,67,Georgia,ParticipanteEurovisao,1991-1992 South Ossetia War,1991,1992,Russia,AtivoDuranteEurovisao
+67,68,Sierra Leone,NaoParticipaNaEurovisao,Sierra Leone Civil War,1991,2002,United Kingdom,AtivoDuranteEurovisao
+68,69,Croatia,ParticipanteEurovisao,Croatian War of Independence,1991,1995,Croatia,AtivoDuranteEurovisao
+69,70,Croatia,ParticipanteEurovisao,Croatian War of Independence,1991,1995,Yugoslavia,AtivoDuranteEurovisao
+70,71,Slovenia,ParticipanteEurovisao,Ten-Day War,1991,1991,Slovenia,NaoAtivoDuranteEurovisao
+71,72,Slovenia,ParticipanteEurovisao,Ten-Day War,1991,1991,Yugoslavia,NaoAtivoDuranteEurovisao
+72,73,Djibouti,NaoParticipaNaEurovisao,Djiboutian Civil War,1991,1994,France,AtivoDuranteEurovisao
+73,74,Georgia,ParticipanteEurovisao,Georgian Civil War,1991,1993,Georgia,AtivoDuranteEurovisao
+74,75,Georgia,ParticipanteEurovisao,Georgian Civil War,1991,1993,Russia,AtivoDuranteEurovisao
+75,76,Bosnia and Herzegovina,ParticipanteEurovisao,Bosnian War,1992,1995,Bosnia and Herzegovina,AtivoDuranteEurovisao
+76,77,Bosnia and Herzegovina,ParticipanteEurovisao,Bosnian War,1992,1995,Yugoslavia,AtivoDuranteEurovisao
+77,78,Bosnia and Herzegovina,ParticipanteEurovisao,Bosnian War,1992,1995,Croatia,AtivoDuranteEurovisao
+78,79,Tajikistan,NaoParticipaNaEurovisao,Tajikistani Civil War,1992,1997,Russia,AtivoDuranteEurovisao
+79,80,Georgia,ParticipanteEurovisao,War in Abkhazia,1992,1993,Georgia,AtivoDuranteEurovisao
+80,81,Georgia,ParticipanteEurovisao,War in Abkhazia,1992,1993,Russia,AtivoDuranteEurovisao
+81,82,Russia,ParticipanteEurovisao,Russian Constitutional Crisis,1993,1993,Russia,NaoAtivoDuranteEurovisao
+82,83,Iraq,NaoParticipaNaEurovisao,Iraq Kurdish Civil War,1994,1997,Turkey,AtivoDuranteEurovisao
+83,84,Russia,ParticipanteEurovisao,First Chechen War,1994,1996,Russia,AtivoDuranteEurovisao
+84,85,Albania,ParticipanteEurovisao,Albanian Rebellion of 1997,1997,1997,Germany,AtivoDuranteEurovisao
+85,86,Albania,ParticipanteEurovisao,Albanian Rebellion of 1997,1997,1997,Italy,AtivoDuranteEurovisao
+86,87,Albania,ParticipanteEurovisao,Albanian Rebellion of 1997,1997,1997,Albania,AtivoDuranteEurovisao
+87,88,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,Belgium,AtivoDuranteEurovisao
+88,89,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,Denmark,AtivoDuranteEurovisao
+89,90,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,France,AtivoDuranteEurovisao
+90,91,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,Germany,AtivoDuranteEurovisao
+91,92,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,Italy,AtivoDuranteEurovisao
+92,93,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,Luxembourg,AtivoDuranteEurovisao
+93,94,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,Netherlands,AtivoDuranteEurovisao
+94,95,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,Norway,AtivoDuranteEurovisao
+95,96,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,Portugal,AtivoDuranteEurovisao
+96,97,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,Spain,AtivoDuranteEurovisao
+97,98,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,Turkey,AtivoDuranteEurovisao
+98,99,Kosovo,NaoParticipaNaEurovisao,Kosovo War,1998,1999,United Kingdom,AtivoDuranteEurovisao
+99,100,Yugoslavia,ParticipanteEurovisao,Insurgency in the Preševo Valley,1999,2001,Yugoslavia,AtivoDuranteEurovisao
+100,101,Russia,ParticipanteEurovisao,Invasion of Dagestan,1999,1999,Russia,NaoAtivoDuranteEurovisao
+101,102,"Georgia, Russia",NaoParticipaNaEurovisao,Second Chechen War,1999,2009,Russia,AtivoDuranteEurovisao
+102,103,Israel,ParticipanteEurovisao,Second Intifada,2000,2005,Israel,AtivoDuranteEurovisao
+103,104,Lebanon,NaoParticipaNaEurovisao,2000–2006 Shebaa Farms conflict,2000,2006,Israel,AtivoDuranteEurovisao
+104,105,North Macedonia,ParticipanteEurovisao,Insurgency in the Republic of Macedonia,2001,2001,North Macedonia,AtivoDuranteEurovisao
+105,106,Global,NaoParticipaNaEurovisao,War on Terror,2001,,United Kingdom,0
+106,107,Global,NaoParticipaNaEurovisao,War on Terror,2001,,France,0
+107,108,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Russia,0
+108,109,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Albania,0
+109,110,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Belgium,0
+110,111,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Bulgaria,0
+111,112,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Croatia,0
+112,113,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Czechia,0
+113,114,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Denmark,0
+114,115,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Estonia,0
+115,116,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Germany,0
+116,117,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Greece,0
+117,118,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Hungary,0
+118,119,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Iceland,0
+119,120,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Italy,0
+120,121,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Latvia,0
+121,122,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Lithuania,0
+122,123,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Luxembourg,0
+123,124,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Montenegro,0
+124,125,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Netherlands,0
+125,126,Global,NaoParticipaNaEurovisao,War on Terror,2001,,North Macedonia,0
+126,127,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Norway,0
+127,128,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Poland,0
+128,129,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Portugal,0
+129,130,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Romania,0
+130,131,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Slovakia,0
+131,132,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Slovenia,0
+132,133,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Spain,0
+133,134,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Turkey,0
+134,135,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Andorra,0
+135,136,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Armenia,0
+136,137,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Australia,0
+137,138,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Austria,0
+138,139,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Azerbaijan,0
+139,140,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Bosnia and Herzegovina,0
+140,141,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Cyprus,0
+141,142,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Israel,0
+142,143,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Malta,0
+143,144,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Sweden,0
+144,145,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Switzerland,0
+145,146,Global,NaoParticipaNaEurovisao,War on Terror,2001,,Ukraine,0
+146,147,Iraq,NaoParticipaNaEurovisao,Iraq War,2003,2011,United Kingdom,AtivoDuranteEurovisao
+147,148,Iraq,NaoParticipaNaEurovisao,Iraq War,2003,2011,Poland,AtivoDuranteEurovisao
+148,149,Iraq,NaoParticipaNaEurovisao,Iraq War,2003,2011,Australia,AtivoDuranteEurovisao
+149,150,Chad,NaoParticipaNaEurovisao,Chadian Civil War (2005–10),2005,2010,France,AtivoDuranteEurovisao
+150,151,Iraq,NaoParticipaNaEurovisao,Iraqi Civil War,2006,2008,United Kingdom,AtivoDuranteEurovisao
+151,152,East Timor,NaoParticipaNaEurovisao,Operation Astute,2006,2013,Portugal,AtivoDuranteEurovisao
+152,153,East Timor,NaoParticipaNaEurovisao,Operation Astute,2006,2013,Australia,AtivoDuranteEurovisao
+153,154,Lebanon,NaoParticipaNaEurovisao,2006 Lebanon War,2006,2006,Israel,NaoAtivoDuranteEurovisao
+154,155,Russia,ParticipanteEurovisao,War in Ingushetia,2007,2015,Russia,AtivoDuranteEurovisao
+155,156,Georgia,ParticipanteEurovisao,Russo-Georgian War,2008,2008,Russia,NaoAtivoDuranteEurovisao
+156,157,Georgia,ParticipanteEurovisao,Russo-Georgian War,2008,2008,Georgia,NaoAtivoDuranteEurovisao
+157,158,Gaza Strip,NaoParticipaNaEurovisao,Gaza War,2008,2009,Israel,AtivoDuranteEurovisao
+158,159,Russia,ParticipanteEurovisao,Insurgency in the North Caucasus,2009,2017,Russia,AtivoDuranteEurovisao
+159,160,Ivory Coast,NaoParticipaNaEurovisao,2010–2011 Ivorian crisis,2010,2011,Ukraine,AtivoDuranteEurovisao
+160,161,Ivory Coast,NaoParticipaNaEurovisao,2010–2011 Ivorian crisis,2010,2011,France,AtivoDuranteEurovisao
+161,162,Egypt,NaoParticipaNaEurovisao,Sinai insurgency,2011,,Israel,0
+162,163,Syria,NaoParticipaNaEurovisao,Syrian Civil War,2011,,Russia,0
+163,164,Mali,NaoParticipaNaEurovisao,Northern Mali conflict,2012,,France,0
+164,165,Ukraine,ParticipanteEurovisao,Russo-Ukrainian War,2014,,Ukraine,0
+165,166,Ukraine,ParticipanteEurovisao,Russo-Ukrainian War,2014,,Russia,0
+166,167,Ukraine,ParticipanteEurovisao,War in Donbas,2014,,Russia,0
+167,168,Ukraine,ParticipanteEurovisao,War in Donbas,2014,,Ukraine,0
+168,169,Gaza Strip,NaoParticipaNaEurovisao,2014 Israel–Gaza conflict,2014,2014,Israel,NaoAtivoDuranteEurovisao
+169,170,Azerbaijan,ParticipanteEurovisao,2016 Armenian–Azerbaijani clashes,2016,2016,Azerbaijan,0
+170,171,Azerbaijan,ParticipanteEurovisao,2016 Armenian–Azerbaijani clashes,2016,2016,Armenia,0
+171,172,Azerbaijan,ParticipanteEurovisao,2018 Armenian–Azerbaijani clashes,2018,2018,Azerbaijan,AtivoDuranteEurovisao
+172,173,Azerbaijan,ParticipanteEurovisao,2018 Armenian–Azerbaijani clashes,2018,2018,Armenia,AtivoDuranteEurovisao
+173,174,Gaza Strip,NaoParticipaNaEurovisao,Gaza–Israel clashes (November 2018),2018,2018,Israel,NaoAtivoDuranteEurovisao
+174,175,Gaza Strip,NaoParticipaNaEurovisao,Gaza–Israel clashes (May 2019),2019,2019,Israel,AtivoDuranteEurovisao
+175,176,Iran,NaoParticipaNaEurovisao,2019–20 Persian Gulf crisis,2019,,United Kingdom,0
+176,177,Iran,NaoParticipaNaEurovisao,2019–20 Persian Gulf crisis,2019,,Lithuania,0
+177,178,Gaza Strip,NaoParticipaNaEurovisao,Gaza–Israel clashes (November 2019),2019,2019,Israel,NaoAtivoDuranteEurovisao
+178,179,Azerbaijan,ParticipanteEurovisao,Second Narogno-Karabakh war,2020,2020,Azerbaijan,NaoAtivoDuranteEurovisao
+179,180,Azerbaijan,ParticipanteEurovisao,Second Narogno-Karabakh war,2020,2020,Armenia,NaoAtivoDuranteEurovisao
+180,181,Gaza Strip,NaoParticipaNaEurovisao,2021 Israel–Palestine crisis,2021,2021,Israel,AtivoDuranteEurovisao
+181,182,Azerbaijan,ParticipanteEurovisao,2021-2022 Armenia–Azerbaijan border crisis,2021,,Armenia,0
+182,183,Azerbaijan,ParticipanteEurovisao,2021-2022 Armenia–Azerbaijan border crisis,2021,,Azerbaijan,0
+183,184,Ukraine,ParticipanteEurovisao,Russian invasion of Ukraine,2022,,Ukraine,0
+184,185,Ukraine,ParticipanteEurovisao,Russian invasion of Ukraine,2022,,Russia,0
